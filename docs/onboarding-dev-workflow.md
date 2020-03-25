@@ -93,6 +93,32 @@ See [Push to remote]([./onboarding-git#push-to-remote) in the Git tutorial.
 
 ### Step 8: create a pull request
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+defaultValue="desktop"
+values={[
+{ label: 'GitHub Desktop', value: 'desktop', },
+{ label: 'GitHub Web', value: 'web', },
+]
+}>
+<TabItem value="desktop">
+
+`Command/Ctrl R` in GitHub Desktop or click `Branch -> Create Pull Request`.
+
+![GitHub Desktop Create PR](/static/docs-img/onboarding-dev-workflow/github-desktop-create-pr.png)
+
+</TabItem>
+<TabItem value="web">
+
+Go to the `Pull requests` tab. Click the green `Compare & pull request` button.
+
+![GitHub Web Create PR](/static/docs-img/onboarding-dev-workflow/github-web-create-pr.png)
+
+</TabItem>
+</Tabs>
+
 You should follow the pull request template in your repository. They will be automatically
 pre-filled when you are creating a pull request. You should fill in the required part.
 
@@ -107,7 +133,19 @@ Some bots may also participate in the review process. For example, `dti-github-b
 your pull request is too big. You will also see some CI status in the bottom of the pull request
 page. Your pull request **must** pass all required CI checks.
 
+The progress can be illustrated by the graph below:
+
+![Required Checks](/static/docs-img/onboarding-dev-workflow/required-checks.png)
+
+Here are some example of bots participating in review:
+
+![Error Annotation](/static/docs-img/onboarding-dev-workflow/linter-error-annotation.png)
+![PR Too Big](/static/docs-img/onboarding-dev-workflow/dti-github-bot-pr-too-big.png)
+
 ### Step 10: merge into `master`
 
 :tada: Your changes are merged. The continuous deployment scripts will automatically deploy your
 changes to staging.
+
+You should [delete your local branch](./onboarding-git#delete-a-branch) immediately, and start
+your new work on a new branch.
