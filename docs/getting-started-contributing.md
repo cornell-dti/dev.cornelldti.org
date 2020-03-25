@@ -3,6 +3,12 @@ id: getting-started-contributing
 title: 'Contributing'
 ---
 
+## Introduction
+
+This page introduces you the process of contributing to this repository.
+
+If you don't want to contribute to this repository, feel free to skip this page.
+
 ## Local Development
 
 You need to use [Yarn](https://classic.yarnpkg.com/) to install all dependencies.

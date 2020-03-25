@@ -100,6 +100,34 @@ git checkout -b [the name of your branch]
 </TabItem>
 </Tabs>
 
+## Delete a branch
+
+<Tabs
+defaultValue="desktop"
+values={[
+{ label: 'GitHub Desktop', value: 'desktop', },
+{ label: 'Git CLI', value: 'cli', },
+]
+}>
+<TabItem value="desktop">
+
+`Command/Ctrl + Shift + D` or click `Branch -> Delete` in Menu.
+
+![Delete Branch](/docs-img/onboarding-git/delete-branch.png)
+
+Click the `Delete` button.
+
+</TabItem>
+<TabItem value="cli">
+
+```bash
+git checkout master
+git checkout -D [the name of your branch]
+```
+
+</TabItem>
+</Tabs>
+
 ## Review your changes locally
 
 <Tabs
