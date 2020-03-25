@@ -1,6 +1,6 @@
 ---
-id: guide-ci-cd
-title: 'CI & CD'
+id: guide-devops
+title: 'DevOps'
 ---
 
 ## CI (Continuous Integration)
@@ -58,6 +58,24 @@ CI to staging servers.
 - For heroku projects, we configure heroku to autodeploy master branch to staging.
 - For Firebase projects, we use [GitHub Actions](https://github.com/features/actions) to auto
   deploy the app to Firebase Hosting.
+
+## Repository Policies and Tools
+
+- Bad code cannot be merged into master
+  - All code must be committed to a separate branch before merging.
+  - All code must pass CI checks before merging.
+  - All code must pass code review before merging.
+- Giant pull requests are prohibited.
+  - [big-diff-warning](https://github.com/cornell-dti/big-diff-warning) will automatically invite
+    developer lead to review giant pull requests.
+  - Unless there is a convincing reason for big pull requests, there will be rejected.
+- Timely feedback of pull requests
+  - We use
+    [GitHub scheduled reminders](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests)
+    to periodically list open pull requests without review in our slack channels.
+- Website/App Status Checks
+  - [dti-repo-tools](https://github.com/cornell-dti/dti-repo-tools) performs health check for every
+    project with public website every ten minutes.
 
 ## Relevent Documentation
 

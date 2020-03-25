@@ -2,6 +2,6 @@
   "someSidebar": {
     "Getting Started": ["getting-started-introduction", "getting-started-contributing"],
     "New Developer Onboarding": ["onboarding-dev-workflow", "onboarding-editor", "onboarding-git"],
-    "Guides": ["guide-code-quality", "guide-ci-cd"]
+    "Guides": ["guide-code-quality", "guide-devops"]
   }
 }
