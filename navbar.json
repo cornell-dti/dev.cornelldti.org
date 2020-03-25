@@ -1,0 +1,13 @@
+{
+  "title": "Dev @ DTI",
+  "logo": { "alt": "Cornell DTI Logo", "src": "img/logo.svg" },
+  "links": [
+    {
+      "to": "docs/getting-started-introduction",
+      "activeBasePath": "docs",
+      "label": "Docs",
+      "position": "left"
+    },
+    { "href": "https://github.com/cornell-dti", "label": "GitHub", "position": "right" }
+  ]
+}

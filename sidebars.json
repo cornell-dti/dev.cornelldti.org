@@ -1,0 +1,6 @@
+{
+  "someSidebar": {
+    "Getting Started": ["getting-started-introduction", "getting-started-contributing"],
+    "New Developer Onboarding": ["onboarding-dev-workflow", "onboarding-editor", "onboarding-git"]
+  }
+}
