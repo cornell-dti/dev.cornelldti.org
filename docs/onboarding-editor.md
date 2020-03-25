@@ -22,16 +22,55 @@ defaultValue="vscode"
 values={[
 { label: 'VS Code', value: 'vscode', },
 { label: 'WebStorm', value: 'webstorm', },
+{ label: 'XCode', value: 'xcode', },
+{ label: 'Android Studio', value: 'android-studio', },
 ]
 }>
 <TabItem value="vscode">
 
-TODO
+### ESLint
+
+Installing ESLint in VSCode will give you real-time linter feedback in any JavaScript code you
+write, allowing you to quickly pinpoint many problems and have readable, proper formatting.
+
+Once installed, add these lines to your VSCode Settings (refer to
+[this link](https://code.visualstudio.com/docs/getstarted/settings) if you need help getting there):
+
+```json
+  // Other settings ...
+  "eslint.alwaysShowStatus": true,
+  "eslint.enable": true,
+```
+
+![ESLint](/static/docs-img/onboarding-editor/eslint.png)
+
+### Git Graph
+
+Installing Git Graph in VSCode will help you visualize your Git history. It is particularly
+helpful when your Git is messed up.
+
+![Git Graph](/static/docs-img/onboarding-editor/git-graph.png)
 
 </TabItem>
 <TabItem value="webstorm">
 
-TODO
+Documentation for WebStorm setup is missing.
+
+Want to contribute? Check the [contributing guide](./getting-started-contributing.md).
+
+</TabItem>
+<TabItem value="xcode">
+
+Documentation for XCode Setup is missing.
+
+Want to contribute? Check the [contributing guide](./getting-started-contributing.md).
+
+</TabItem>
+<TabItem value="android-studio">
+
+Documentation for Android Studio Setup is missing.
+
+Want to contribute? Check the [contributing guide](./getting-started-contributing.md).
 
 </TabItem>
 </Tabs>
