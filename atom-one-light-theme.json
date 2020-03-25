@@ -11,7 +11,7 @@
       }
     },
     {
-      "types": ["keyword", "selector", "changed"],
+      "types": ["keyword", "selector", "changed", "key"],
       "style": {
         "color": "rgb(166, 38, 164)"
       }

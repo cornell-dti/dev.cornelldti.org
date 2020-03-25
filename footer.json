@@ -5,7 +5,8 @@
       "title": "Docs",
       "items": [
         { "label": "Getting Started", "to": "docs/getting-started-introduction" },
-        { "label": "Onboarding", "to": "docs/onboarding-dev-workflow" }
+        { "label": "Onboarding", "to": "docs/onboarding-dev-workflow" },
+        { "label": "Guides", "to": "docs/guide-code-quality" }
       ]
     },
     {
