@@ -8,6 +8,17 @@ jobs:
       - uses: actions/checkout@v2
       - name: Set up Node
         uses: actions/setup-node@v1
+      - uses: actions/setup-ruby@v1
+      - name: Setup Markdown Lint
+        run: gem install mdl
+      - name: Run Markdown Lint
+        run: mdl .
+      - name: Use Yarn Cache
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/yarn
+          key: yarn-${{ hashFiles(format('{0}{1}', github.workspace, '/yarn.lock')) }}
+          restore-keys: yarn-
       - name: Yarn Install
         run: yarn install
       - name: Run Prettier
