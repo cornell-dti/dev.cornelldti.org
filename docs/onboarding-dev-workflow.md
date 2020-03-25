@@ -107,14 +107,14 @@ values={[
 
 `Command/Ctrl R` in GitHub Desktop or click `Branch -> Create Pull Request`.
 
-![GitHub Desktop Create PR](/static/docs-img/onboarding-dev-workflow/github-desktop-create-pr.png)
+![GitHub Desktop Create PR](/docs-img/onboarding-dev-workflow/github-desktop-create-pr.png)
 
 </TabItem>
 <TabItem value="web">
 
 Go to the `Pull requests` tab. Click the green `Compare & pull request` button.
 
-![GitHub Web Create PR](/static/docs-img/onboarding-dev-workflow/github-web-create-pr.png)
+![GitHub Web Create PR](/docs-img/onboarding-dev-workflow/github-web-create-pr.png)
 
 </TabItem>
 </Tabs>
@@ -135,12 +135,12 @@ page. Your pull request **must** pass all required CI checks.
 
 The progress can be illustrated by the graph below:
 
-![Required Checks](/static/docs-img/onboarding-dev-workflow/required-checks.png)
+![Required Checks](/docs-img/onboarding-dev-workflow/required-checks.png)
 
 Here are some example of bots participating in review:
 
-![Error Annotation](/static/docs-img/onboarding-dev-workflow/linter-error-annotation.png)
-![PR Too Big](/static/docs-img/onboarding-dev-workflow/dti-github-bot-pr-too-big.png)
+![Error Annotation](/docs-img/onboarding-dev-workflow/linter-error-annotation.png)
+![PR Too Big](/docs-img/onboarding-dev-workflow/dti-github-bot-pr-too-big.png)
 
 ### Step 10: merge into `master`
 
