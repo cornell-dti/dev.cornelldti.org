@@ -42,14 +42,14 @@ Once installed, add these lines to your VSCode Settings (refer to
   "eslint.enable": true,
 ```
 
-![ESLint](/static/docs-img/onboarding-editor/eslint.png)
+![ESLint]/docs-img/onboarding-editor/eslint.png)
 
 ### Git Graph
 
 Installing Git Graph in VSCode will help you visualize your Git history. It is particularly
 helpful when your Git is messed up.
 
-![Git Graph](/static/docs-img/onboarding-editor/git-graph.png)
+![Git Graph](/docs-img/onboarding-editor/git-graph.png)
 
 </TabItem>
 <TabItem value="webstorm">
