@@ -23,10 +23,18 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+Install [GitHub Desktop](https://desktop.github.com).
+
+Click `Clone or download` in the repository page and choose `Open in Desktop`.
+
+![Clone from desktop](/docs-img/onboarding-git/clone-with-desktop.png)
+
+GitHub Desktop will auto open and guide you to clone the repository.
 
 </TabItem>
 <TabItem value="cli">
+
+Install [Git](https://git-scm.com).
 
 ```bash
 git clone https://github.com/cornell-dti/[name of the repository]
@@ -37,6 +45,8 @@ git clone https://github.com/cornell-dti/[name of the repository]
 
 ## Pull latest changes from remote
 
+Try keep your branch up-to-date with remote. Pull often.
+
 <Tabs
 defaultValue="desktop"
 values={[
@@ -46,7 +56,10 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+Click `Pull origin` in the header.
+
+![Pull origin](/docs-img/onboarding-git/pull-origin.png)
+![Pulling origin](/docs-img/onboarding-git/pulling-origin.png)
 
 </TabItem>
 <TabItem value="cli">
@@ -71,12 +84,43 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+`Command/Ctrl + Shift + N` or click `Branch -> New Branch` in Menu.
+
+![New Branch](/docs-img/onboarding-git/new-branch.png)
+
+Input the name of the new branch and GitHub Desktop will automatically go to the new branch.
 
 </TabItem>
 <TabItem value="cli">
 
-TODO
+```bash
+git checkout -b [the name of your branch]
+```
+
+</TabItem>
+</Tabs>
+
+## Review your changes locally
+
+<Tabs
+defaultValue="desktop"
+values={[
+{ label: 'GitHub Desktop', value: 'desktop', },
+{ label: 'Git CLI', value: 'cli', },
+]
+}>
+<TabItem value="desktop">
+
+Just see what's changed directly within GitHub Desktop.
+
+![Partial Commit](/docs-img/onboarding-git/partial-commit.png)
+
+</TabItem>
+<TabItem value="cli">
+
+```bash
+git diff
+```
 
 </TabItem>
 </Tabs>
@@ -92,7 +136,14 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+You can unselect the files you don't want to commit. Inside a file, you can deselect lines that
+you don't want to commit. (Only lines highlighted with blue on the left will be committed.)
+
+![Partial Commit](/docs-img/onboarding-git/partial-commit.png)
+
+The fill in the commit message, and click `Commit to [your branch name]`.
+
+![Commit](/docs-img/onboarding-git/commit.png)
 
 </TabItem>
 <TabItem value="cli">
@@ -121,27 +172,6 @@ git commit -m "Your commit message"
 </TabItem>
 </Tabs>
 
-## Review your changes locally
-
-<Tabs
-defaultValue="desktop"
-values={[
-{ label: 'GitHub Desktop', value: 'desktop', },
-{ label: 'Git CLI', value: 'cli', },
-]
-}>
-<TabItem value="desktop">
-
-TODO
-
-</TabItem>
-<TabItem value="cli">
-
-TODO
-
-</TabItem>
-</Tabs>
-
 ## Push to remote
 
 <Tabs
@@ -153,7 +183,22 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+After you commit, you should push your changes to remote, so that
+
+- If you computer dies, changes will persist;
+- Other team members will see your progress.
+
+Depending on whether you have published your branch before, you will either see
+
+![Publish Branch](/docs-img/onboarding-git/publish-branch.png)
+
+or
+
+![Push](/docs-img/onboarding-git/push.png)
+
+After you clicked the button, you can see the progress.
+
+![Push Progress](/docs-img/onboarding-git/push-progress.png)
 
 </TabItem>
 <TabItem value="cli">
@@ -166,10 +211,13 @@ If the branch does not exist on remote yet, Git will reject the push but give yo
 like:
 
 ```console
-TODO
+fatal: The current branch [your-branch-name] has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin [your-branch-name]
 ```
 
-Follow the instruction.
+Run `git push --set-upstream origin [your-branch-name]` as instructed.
 
 </TabItem>
 </Tabs>
@@ -185,7 +233,13 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+1. Select History Tab
+   ![Merge: Select History Tab](/docs-img/onboarding-git/merge-history-tab.png)
+2. Select `master` branch
+   ![Publish Branch](/docs-img/onboarding-git/merge-select-master.png)
+3. Click the `merge` button
+   ![Publish Branch](/docs-img/onboarding-git/merge-final-click.png)
+4. If there are merge conflicts, GitHub Desktop will prompt you to fix them.
 
 </TabItem>
 <TabItem value="cli">
@@ -254,7 +308,11 @@ values={[
 }>
 <TabItem value="desktop">
 
-TODO
+1. `Command/Ctrl + Shift + E` or click `Branch -> Rebase Current Branch` in menu
+   ![Merge: Select History Tab](/docs-img/onboarding-git/rebase-menu.png)
+2. Select `master` branch and click `rebase`
+   ![Publish Branch](/docs-img/onboarding-git/rebase-select-master.png)
+3. If there are merge conflicts, GitHub Desktop will prompt you to fix them.
 
 </TabItem>
 <TabItem value="cli">
