@@ -8,6 +8,10 @@
       "label": "Docs",
       "position": "left"
     },
-    { "href": "https://github.com/cornell-dti", "label": "GitHub", "position": "right" }
+    {
+      "href": "https://github.com/cornell-dti/dev.cornelldti.org",
+      "label": "GitHub",
+      "position": "right"
+    }
   ]
 }
