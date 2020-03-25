@@ -6,7 +6,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
-const features = [
+const features: never[] = [
+  /*
   {
     title: <>Easy to Use</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
@@ -37,6 +38,7 @@ const features = [
       </>
     ),
   },
+  */
 ];
 
 function Feature({ imageUrl, title, description }) {
@@ -65,7 +67,7 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={classnames('button button--secondary button--lg', styles.getStarted)}
+              className={classnames('button button--primary button--lg', styles.getStarted)}
               to={useBaseUrl('docs/getting-started-introduction')}
             >
               Get Started
@@ -74,12 +76,24 @@ function Home() {
         </div>
       </header>
       <main>
-        {features && features.length && (
+        {features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
               <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
+                {features.map(({ imageUrl, title, description }, idx) => (
+                  <div key={idx} className={classnames('col col--4', styles.feature)}>
+                    {imageUrl && (
+                      <div className="text--center">
+                        <img
+                          className={styles.featureImage}
+                          src={useBaseUrl(imageUrl)}
+                          alt={title}
+                        />
+                      </div>
+                    )}
+                    <h3>{title}</h3>
+                    <p>{description}</p>
+                  </div>
                 ))}
               </div>
             </div>
