@@ -24,6 +24,10 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+.hero {
+  background-color: unset;
+}
+
 #__docusaurus {
   display: flex;
   flex-direction: column;
