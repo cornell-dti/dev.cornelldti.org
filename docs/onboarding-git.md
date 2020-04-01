@@ -15,6 +15,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -48,6 +49,7 @@ git clone https://github.com/cornell-dti/[name of the repository]
 Try keep your branch up-to-date with remote. Pull often.
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -76,6 +78,7 @@ git pull
 ## Create a new branch
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -103,6 +106,7 @@ git checkout -b [the name of your branch]
 ## Delete a branch
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -131,6 +135,7 @@ git checkout -D [the name of your branch]
 ## Review your changes locally
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -156,6 +161,7 @@ git diff
 ## Select changes to commit
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -203,6 +209,7 @@ git commit -m "Your commit message"
 ## Push to remote
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -253,6 +260,7 @@ Run `git push --set-upstream origin [your-branch-name]` as instructed.
 ## Merge in `master` branch changes
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
@@ -328,6 +336,7 @@ Merge commits sometimes turn a nice linear commit history into a messy tree. If 
 linear history, you will need to rebase when you want to "merge" in the latest `master` change.
 
 <Tabs
+groupId="git-client"
 defaultValue="desktop"
 values={[
 { label: 'GitHub Desktop', value: 'desktop', },
