@@ -42,7 +42,7 @@ Once installed, add these lines to your VSCode Settings (refer to
   "eslint.enable": true,
 ```
 
-![ESLint]/docs-img/onboarding-editor/eslint.png)
+![ESLint](/docs-img/onboarding-editor/eslint.png)
 
 ### Git Graph
 
