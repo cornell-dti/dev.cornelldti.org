@@ -3,7 +3,7 @@ id: resource-devsesh
 title: 'Past DevSesh'
 ---
 
-### Learning Series
+## Learning Series
 
 - [DevSesh #3: Functional Programming](https://docs.google.com/presentation/d/1yBeLqlhOjMVfroZ2PiMS3uI5UGf6xvQD3rPllfuncME)
 - [DevSesh #4: Application of Functional Programming](https://docs.google.com/presentation/d/1MMgvBQgyYntBg1humW_yCyaKdaRFpput03l8JG_QQjs)
@@ -20,7 +20,7 @@ title: 'Past DevSesh'
 - [DevSesh #20: Web Assembly](https://docs.google.com/presentation/d/1Jt_wdPSDMs0LhIxdB5KFYemInIvaFadGKzmJfryRak8)
 - [DevSesh #21: JavaScript Modules](https://docs.google.com/presentation/d/1veoBCpvRqmQXYJTdRAS2wqj80wdZe_-yWNWR1_ELuw4)
 
-### Onboarding
+## Onboarding
 
 - [Onboarding #1: Roles + GitHub](https://docs.google.com/presentation/d/10wwEiz2QkSOCPx4Ah0ztAtjmQ4abg03mqtzFZZm3_Tg)
 - [Onboarding #3: React](https://docs.google.com/presentation/d/1gAhFSVi1eqGpq2a4X8grZIzSRK_2ewsxCYdj6hvAJYQ)
@@ -30,13 +30,13 @@ title: 'Past DevSesh'
 - [Onboarding #8: React (deeper)](https://docs.google.com/presentation/d/1GYUmYLEIUqtnnfiRVt0IRrZQBQqqSfce8AXZSiJ-It8)
 - [Onboarding #9: Last steps to becoming a good dev](https://docs.google.com/presentation/d/1GFqgGP7iPmXlLKcl3thMiKvcvqDabKOz95zdV06Foys)
 
-### Subteam Architecture
+## Subteam Architecture
 
 - [CU Reviews](https://docs.google.com/presentation/d/1EDp8GlSM1ysMUKTBOJVpk4mJMaTNh1CdC1-kpR0uXt8)
 - [O-Week](https://docs.google.com/presentation/d/1bhZPOU1_KscqLQ7aiCW3GEL_4ymxYM0i3UANjnqBRWA)
 - [Samwise](https://drive.google.com/file/d/1hp298osoIC80mgmaJBpGUnwelEn0O6q9/view)
 
-### Deep Dive
+## Deep Dive
 
 - [DeepDive #1: How to build your own programming language](https://docs.google.com/presentation/d/1-i7uosboHlxLSDW366xryoxVhh7g_Qt7ew1xRZtKoBU)
 - [DeepDive #2: SP20-How to build (a simplified) React](https://docs.google.com/presentation/d/1oAjci5OxrJpigvPENFl3iW9XEd0zUWSNWAj6e38S0v0)
