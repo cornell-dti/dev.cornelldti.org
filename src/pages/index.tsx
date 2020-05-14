@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { ReactElement } from 'react';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -6,7 +6,13 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
-const features: never[] = [
+type Feature = {
+  readonly title: string;
+  readonly imageUrl: string;
+  readonly description: ReactElement;
+};
+
+const features: Feature[] = [
   /*
   {
     title: <>Easy to Use</>,
