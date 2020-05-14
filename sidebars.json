@@ -7,6 +7,7 @@
       "onboarding-editor",
       "onboarding-git"
     ],
-    "Guides": ["guide-code-quality", "guide-devops", "guide-code-review"]
+    "Guides": ["guide-code-quality", "guide-devops", "guide-code-review"],
+    "Resources": ["resource-common-docs-pointer", "resource-devsesh"]
   }
 }
