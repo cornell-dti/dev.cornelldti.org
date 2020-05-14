@@ -6,7 +6,8 @@
       "items": [
         { "label": "Getting Started", "to": "docs/getting-started-introduction" },
         { "label": "Onboarding", "to": "docs/onboarding-dev-workflow" },
-        { "label": "Guides", "to": "docs/guide-code-quality" }
+        { "label": "Guides", "to": "docs/guide-code-quality" },
+        { "label": "Resources", "to": "docs/resource-common-docs-pointer" }
       ]
     },
     {
