@@ -28,6 +28,19 @@
   background-color: unset;
 }
 
+.hero-survey {
+  padding: 2rem;
+}
+
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 2rem;
+}
+
 #__docusaurus {
   display: flex;
   flex-direction: column;

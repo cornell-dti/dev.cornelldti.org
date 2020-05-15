@@ -9,6 +9,12 @@
       "position": "left"
     },
     {
+      "to": "dev-survey-sp2020",
+      "activeBasePath": "docs",
+      "label": "Developer Survey",
+      "position": "left"
+    },
+    {
       "href": "https://github.com/cornell-dti/dev.cornelldti.org",
       "label": "GitHub",
       "position": "right"
