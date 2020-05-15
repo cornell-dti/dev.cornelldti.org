@@ -34,7 +34,8 @@ Installing ESLint in VSCode will give you real-time linter feedback in any JavaS
 write, allowing you to quickly pinpoint many problems and have readable, proper formatting.
 
 Once installed, add these lines to your VSCode Settings (refer to
-[this link](https://code.visualstudio.com/docs/getstarted/settings) if you need help getting there, alternatively open command palette CMD/CTRL+SHIFT+P and search `settings.json`):
+[this link](https://code.visualstudio.com/docs/getstarted/settings) if you need help getting there,
+alternatively open command palette CMD/CTRL+SHIFT+P and search `settings.json`):
 
 ```json
   // Other settings ...
@@ -54,15 +55,22 @@ helpful when your Git is messed up.
 </TabItem>
 <TabItem value="webstorm">
 
-WebStorm bases ESLint configuration based on the ESLint package in `node_modules` and the `.eslint.*` config file in the folder the current file is in. (If an ESLint config file is not found in the folder, it looks in parent folders up to the project root.)
+WebStorm bases ESLint configuration based on the ESLint package in `node_modules`
+and the `.eslint.*` config file in the folder the current file is in. (If an ESLint
+config file is not found in the folder, it looks in parent folders up to the project root.)
 
-This is the default automatic behavior in WebStorm; to activate it go to the menu bar, **WebStorm**, **Preferences**, **Languages & Frameworks**, **JavaScript**, **Code Quality Tools**, **ESLint**. Check **Automatic ESLint configuration**.
+This is the default automatic behavior in WebStorm; to activate it go to the menu bar,
+**WebStorm**, **Preferences**, **Languages & Frameworks**, **JavaScript**,
+**Code Quality Tools**,**ESLint**. 
+
+Check **Automatic ESLint configuration**.
 
 You should see the following:
 
 ![WebStorm ESLint](/docs-img/onboarding-editor/WebStormESLintSetup.png)
 
-For more details check out the [JetBrains ESLint documentation](https://www.jetbrains.com/help/webstorm/eslint.html).
+For more details check out the 
+[JetBrains ESLint documentation](https://www.jetbrains.com/help/webstorm/eslint.html).
 
 </TabItem>
 <TabItem value="xcode">
