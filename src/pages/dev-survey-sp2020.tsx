@@ -23,7 +23,7 @@ function Home() {
         <section className={styles.features}>
           <div className="container">
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Backend framework used by subteams</h2>
                 <Pie
                   data={{
@@ -38,7 +38,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Web frontend framework used by subteams</h2>
                 <Pie
                   data={{
@@ -55,7 +55,7 @@ function Home() {
               </div>
             </div>
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Languages usage by subteams</h2>
                 <HorizontalBar
                   data={{
@@ -100,7 +100,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Languages usage by individuals @ DTI</h2>
                 <HorizontalBar
                   data={{
@@ -129,7 +129,7 @@ function Home() {
               </div>
             </div>
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Languages liked by individuals @ DTI</h2>
                 <HorizontalBar
                   data={{
@@ -157,7 +157,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Frameworks liked by individuals @ DTI</h2>
                 <HorizontalBar
                   data={{
@@ -188,7 +188,7 @@ function Home() {
               </div>
             </div>
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">How developers @ DTI test</h2>
                 <HorizontalBar
                   data={{
@@ -213,7 +213,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">What our developers know and want to know</h2>
                 <HorizontalBar
                   data={{
@@ -243,7 +243,7 @@ function Home() {
               </div>
             </div>
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Languages used for developers' side projects</h2>
                 <HorizontalBar
                   data={{
@@ -278,7 +278,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Framework used for developers' side projects</h2>
                 <HorizontalBar
                   data={{
@@ -312,7 +312,7 @@ function Home() {
               </div>
             </div>
             <div className="row">
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Tools used for developers' side projects</h2>
                 <HorizontalBar
                   data={{
@@ -339,7 +339,7 @@ function Home() {
                   }}
                 />
               </div>
-              <div className="col col--6">
+              <div className="col col--6 survey-block">
                 <h2 className="centered">Number of active side projects by individuals</h2>
                 <HorizontalBar
                   data={{
