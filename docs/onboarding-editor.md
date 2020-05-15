@@ -61,7 +61,7 @@ config file is not found in the folder, it looks in parent folders up to the pro
 
 This is the default automatic behavior in WebStorm; to activate it go to the menu bar,
 **WebStorm**, **Preferences**, **Languages & Frameworks**, **JavaScript**,
-**Code Quality Tools**,**ESLint**. 
+**Code Quality Tools**,**ESLint**.
 
 Check **Automatic ESLint configuration**.
 
@@ -69,7 +69,7 @@ You should see the following:
 
 ![WebStorm ESLint](/docs-img/onboarding-editor/WebStormESLintSetup.png)
 
-For more details check out the 
+For more details check out the
 [JetBrains ESLint documentation](https://www.jetbrains.com/help/webstorm/eslint.html).
 
 </TabItem>
