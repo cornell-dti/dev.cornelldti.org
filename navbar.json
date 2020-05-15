@@ -10,7 +10,6 @@
     },
     {
       "to": "dev-survey-sp2020",
-      "activeBasePath": "docs",
       "label": "Developer Survey",
       "position": "left"
     },

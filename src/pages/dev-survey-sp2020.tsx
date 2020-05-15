@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
-import { HorizontalBar, Pie } from 'react-chartjs-2';
+import { defaults, Pie, HorizontalBar } from 'react-chartjs-2';
 import styles from './styles.module.css';
 
 const BLUE = '#2196f3cc';
@@ -11,7 +11,28 @@ const GREEN_DARK = '#00695ccc';
 const YELLOW = '#ffc107cc';
 const YELLOW_DARK = '#ff8f00cc';
 
-function Home() {
+const getIsDarkTheme = (): boolean => {
+  try {
+    return localStorage.getItem('theme') === 'dark';
+  } catch {
+    return false;
+  }
+};
+
+function SurveySP20() {
+  const [isDarkTheme, setIsDarkTheme] = useState(getIsDarkTheme);
+  const fontColor = isDarkTheme ? 'white' : '#666666';
+
+  defaults.global.defaultFontColor = fontColor;
+
+  useEffect(() => {
+    setInterval(() => {
+      try {
+        setIsDarkTheme(getIsDarkTheme());
+      } catch {}
+    }, 50);
+  }, []);
+
   return (
     <Layout title="State of DTI Devs SP2020" description="Developer Survey">
       <header className={classnames('hero', styles.heroBanner, 'hero-survey')}>
@@ -21,7 +42,7 @@ function Home() {
       </header>
       <main>
         <section className={styles.features}>
-          <div className="container">
+          <div key={fontColor} className="container">
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">Backend framework used by subteams</h2>
@@ -366,4 +387,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default SurveySP20;
