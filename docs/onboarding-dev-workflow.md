@@ -57,7 +57,7 @@ To ensure you do not exceed the limit, you need to plan before you write any cod
 
 You should keep your local repository to be up-to-date with latest `master`.
 
-See [Pull latest changes from remote]([./onboarding-git#pull-latest-changes-from-remote) in the Git
+See [Pull latest changes from remote](./onboarding-git#pull-latest-changes-from-remote) in the Git
 tutorial.
 
 ### Step 3: create a local branch
@@ -89,7 +89,7 @@ type errors. You should try to fix these errors instead of suppress them.
 
 ### Step 7: push your changes to remote
 
-See [Push to remote]([./onboarding-git#push-to-remote) in the Git tutorial.
+See [Push to remote](./onboarding-git#push-to-remote) in the Git tutorial.
 
 ### Step 8: create a pull request
 

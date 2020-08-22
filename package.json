@@ -11,9 +11,9 @@
     "format:check": "prettier --check '**/*.{ts,js,tsx,jsx,scss,css,html,md,mdx}'"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.54",
-    "@docusaurus/module-type-aliases": "^2.0.0-alpha.54",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.54",
+    "@docusaurus/core": "^2.0.0-alpha.61",
+    "@docusaurus/module-type-aliases": "^2.0.0-alpha.61",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.61",
     "@types/react": "^16.9.35",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
