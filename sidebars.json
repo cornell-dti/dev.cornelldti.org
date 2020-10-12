@@ -8,6 +8,7 @@
       "onboarding-git"
     ],
     "Guides": ["guide-code-quality", "guide-devops", "guide-code-review"],
-    "Resources": ["resource-common-docs-pointer", "resource-devsesh"]
+    "Resources": ["resource-common-docs-pointer", "resource-devsesh"],
+    "Grading": ["grading-dev-tpm-rubric"]
   }
 }
