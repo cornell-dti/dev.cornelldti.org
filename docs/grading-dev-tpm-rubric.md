@@ -7,7 +7,7 @@ title: 'Dev & TPM Grading Rubric'
 
 - **15%** - dev assignments
 - **15%** - role meeting attendance
-  - Devs: bi-weekly devsesh (Saturday 1pm after all hands)
+  - Devs: bi-weekly devsesh (Saturday 2pm after all hands)
   - TPMs: TPM meetings
 
 ## Dev Subteam Performance (**30%**)
