@@ -19,6 +19,8 @@ title: 'Past DevSesh'
 - [DevSesh #19: How to Choose Your Frameworks](https://docs.google.com/presentation/d/1VUFF3dsajKsBJFaozN-eSbS23UBICddS5h19jZtg_cg)
 - [DevSesh #20: Web Assembly](https://docs.google.com/presentation/d/1Jt_wdPSDMs0LhIxdB5KFYemInIvaFadGKzmJfryRak8)
 - [DevSesh #21: JavaScript Modules](https://docs.google.com/presentation/d/1veoBCpvRqmQXYJTdRAS2wqj80wdZe_-yWNWR1_ELuw4)
+- [DevSesh FA20#1: Expectations](https://docs.google.com/presentation/d/1jP-_j46abg4FFupmAwXKlLaPoeVMh_hyZYfUAZdGAm8/edit?usp=sharing)
+- [DevSesh FA20#2: How to Review Code](https://docs.google.com/presentation/d/1ylW_f1xh8VqUAxy-TvigUl2heQc06mP4HErRNZ4rQN8/edit?usp=sharing)
 
 ## Onboarding
 
@@ -29,12 +31,14 @@ title: 'Past DevSesh'
 - [Onboarding #7: Android (part 2)](https://docs.google.com/presentation/d/11TeLuU7aPH9etJsuCXmSnru-VPfzSFqy_iHFiVMWlF4)
 - [Onboarding #8: React (deeper)](https://docs.google.com/presentation/d/1GYUmYLEIUqtnnfiRVt0IRrZQBQqqSfce8AXZSiJ-It8)
 - [Onboarding #9: Last steps to becoming a good dev](https://docs.google.com/presentation/d/1GFqgGP7iPmXlLKcl3thMiKvcvqDabKOz95zdV06Foys)
+- [Onboarding FA20#1: Git](https://docs.google.com/presentation/d/1cE5RiJOXBhKNbUNvFxuaG58c29TBHaIdcEjJLEK1S94/edit?usp=sharing)
 
 ## Subteam Architecture
 
 - [CU Reviews](https://docs.google.com/presentation/d/1EDp8GlSM1ysMUKTBOJVpk4mJMaTNh1CdC1-kpR0uXt8)
 - [O-Week](https://docs.google.com/presentation/d/1bhZPOU1_KscqLQ7aiCW3GEL_4ymxYM0i3UANjnqBRWA)
 - [Samwise](https://drive.google.com/file/d/1hp298osoIC80mgmaJBpGUnwelEn0O6q9/view)
+- [Flux](https://docs.google.com/presentation/d/18qVwhfL1lSkKEvQeDo2qxXtHy90DBIj3PU1ZzKgOrI4/edit?usp=sharing)
 
 ## Deep Dive
 
