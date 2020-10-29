@@ -35,6 +35,7 @@ title: 'Past DevSesh'
 - [Onboarding FA20#1: Git](https://docs.google.com/presentation/d/1cE5RiJOXBhKNbUNvFxuaG58c29TBHaIdcEjJLEK1S94/edit?usp=sharing)
 - [Onboarding FA20#2: Good Code Practices](https://docs.google.com/presentation/d/1Vso4LS_QAmLuAMoIYAvkcgHKzF6tVBRJf99Tgx34xqU/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1yhaz-1yLrx-nY_dMQ9st_rGA8wjC-iwI/view?usp=sharing)
 - [Onboarding FA20#3: Functional Programming](https://docs.google.com/presentation/d/1h8H_GDE4z_8yb8XS8LotO1FbVj1_f7s_fhl3XDzCdzY/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1PxvG4fJLTyXLqXKzjJtxB-2SlUrTGW7-/view?usp=sharing)
+- [Onboarding FA20#4: Accessibility](https://docs.google.com/presentation/d/1UnsJ9Por3fgk4OJRv3yroBvoInSprJeUNfvhNcupO2Q/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1GQKsUnfZDDWC8n2IZYZQafPfGUkxa9uk/view?usp=sharing)
 
 ## Subteam Architecture
 
