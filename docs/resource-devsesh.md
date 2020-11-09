@@ -22,7 +22,7 @@ title: 'Past DevSesh'
 - [DevSesh FA20#1: Expectations](https://docs.google.com/presentation/d/1jP-_j46abg4FFupmAwXKlLaPoeVMh_hyZYfUAZdGAm8/edit?usp=sharing)
 - [DevSesh FA20#2: How to Review Code](https://docs.google.com/presentation/d/1ylW_f1xh8VqUAxy-TvigUl2heQc06mP4HErRNZ4rQN8/edit?usp=sharing)
 - [DevSesh FA20#3: TS Genetic Algorithms](https://docs.google.com/presentation/d/1OifY0WPTAVihbH6c6o_a9Wb2Ahj6rPHuJOhW42ou0Zg/edit?usp=sharing)
-- [DevSesh FA20#4: webpack](https://docs.google.com/presentation/d/1aELYP2lSry92IIET_eop8J21r_T1QsvM4cNHpCRsQbE/edit?usp=sharing)
+- [DevSesh FA20#4: Webpack](https://docs.google.com/presentation/d/1aELYP2lSry92IIET_eop8J21r_T1QsvM4cNHpCRsQbE/edit?usp=sharing)
 
 ## Onboarding
 
