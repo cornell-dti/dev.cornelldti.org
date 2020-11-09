@@ -22,6 +22,7 @@ title: 'Past DevSesh'
 - [DevSesh FA20#1: Expectations](https://docs.google.com/presentation/d/1jP-_j46abg4FFupmAwXKlLaPoeVMh_hyZYfUAZdGAm8/edit?usp=sharing)
 - [DevSesh FA20#2: How to Review Code](https://docs.google.com/presentation/d/1ylW_f1xh8VqUAxy-TvigUl2heQc06mP4HErRNZ4rQN8/edit?usp=sharing)
 - [DevSesh FA20#3: TS Genetic Algorithms](https://docs.google.com/presentation/d/1OifY0WPTAVihbH6c6o_a9Wb2Ahj6rPHuJOhW42ou0Zg/edit?usp=sharing)
+- [DevSesh FA20#4: Webpack](https://docs.google.com/presentation/d/1aELYP2lSry92IIET_eop8J21r_T1QsvM4cNHpCRsQbE/edit?usp=sharing)
 
 ## Onboarding
 
@@ -43,6 +44,7 @@ title: 'Past DevSesh'
 - [O-Week](https://docs.google.com/presentation/d/1bhZPOU1_KscqLQ7aiCW3GEL_4ymxYM0i3UANjnqBRWA)
 - [Samwise](https://drive.google.com/file/d/1hp298osoIC80mgmaJBpGUnwelEn0O6q9/view)
 - [Flux](https://docs.google.com/presentation/d/18qVwhfL1lSkKEvQeDo2qxXtHy90DBIj3PU1ZzKgOrI4/edit?usp=sharing)
+- [CUE](https://docs.google.com/presentation/d/1sh9zjl0XkYiZ2-s70mPZDUumgXZ31aPbFj7M2GWE3HU/edit?usp=sharing)
 
 ## Deep Dive
 
