@@ -12,11 +12,11 @@ Additionally, two of the four portfolios must include a link to a pull request y
 
 For the work submitted in every portfolio, in general, the main submission here should be a **link to a open pull request.** However, there are a few other options in cases where a pull request does not work, so all options and a description will be found below.
 
-## Pull Request
+### Pull Request
 
 This is the default option, and in general, this is what you should submit. You need to link a **non-trivial, published** pull request. Unless you + the TPM have given us a valid reason, you should be author to at least some, if not all of the commits on the pull request. In general, these should be approved or far into the review process, but we will not require that to prevent people from automatically approving PRs in order to ensure that person has an approved PR for the portfolio. All you need to include is the link, your PR description on GitHub should tell us what we need to know!
 
-## Link to Personal Repository
+### Link to Personal Repository
 
 A link to a personal repository should be used for three reasons:
 
