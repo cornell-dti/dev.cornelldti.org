@@ -47,6 +47,7 @@ title: 'Past DevSesh'
 - [Samwise](https://drive.google.com/file/d/1hp298osoIC80mgmaJBpGUnwelEn0O6q9/view)
 - [Flux](https://docs.google.com/presentation/d/18qVwhfL1lSkKEvQeDo2qxXtHy90DBIj3PU1ZzKgOrI4/edit?usp=sharing)
 - [CUE](https://docs.google.com/presentation/d/1sh9zjl0XkYiZ2-s70mPZDUumgXZ31aPbFj7M2GWE3HU/edit?usp=sharing)
+- [CoursePlan](https://docs.google.com/presentation/d/1mEGkDaLP7f9fa5SCoqmDvMk67QeQ7VEeO9AUEWeLL_U/edit) | [Recording](https://drive.google.com/file/d/12HLFeSfwmKV8sEpcx8r1BRL5GlFyIx1b/view)
 
 ## Deep Dive
 
