@@ -24,6 +24,7 @@ title: 'Past DevSesh'
 - [DevSesh FA20#3: TS Genetic Algorithms](https://docs.google.com/presentation/d/1OifY0WPTAVihbH6c6o_a9Wb2Ahj6rPHuJOhW42ou0Zg/edit?usp=sharing)
 - [DevSesh FA20#4: Webpack](https://docs.google.com/presentation/d/1aELYP2lSry92IIET_eop8J21r_T1QsvM4cNHpCRsQbE/edit?usp=sharing)
 - [DevSesh FA20#5: Samlang](https://docs.google.com/presentation/d/1ttld-VNzghTa5EGsoTnMBHJrTr2je-vx9B2uSG_Ocss/edit?usp=sharing)
+- [DevSesh FA20#6: CoursePlan Requirement Computation](https://docs.google.com/presentation/d/1mEGkDaLP7f9fa5SCoqmDvMk67QeQ7VEeO9AUEWeLL_U/edit) | [Recording](https://drive.google.com/file/d/12HLFeSfwmKV8sEpcx8r1BRL5GlFyIx1b/view)
 
 ## Onboarding
 
@@ -46,6 +47,7 @@ title: 'Past DevSesh'
 - [Samwise](https://drive.google.com/file/d/1hp298osoIC80mgmaJBpGUnwelEn0O6q9/view)
 - [Flux](https://docs.google.com/presentation/d/18qVwhfL1lSkKEvQeDo2qxXtHy90DBIj3PU1ZzKgOrI4/edit?usp=sharing)
 - [CUE](https://docs.google.com/presentation/d/1sh9zjl0XkYiZ2-s70mPZDUumgXZ31aPbFj7M2GWE3HU/edit?usp=sharing)
+- [CoursePlan](https://docs.google.com/presentation/d/1mEGkDaLP7f9fa5SCoqmDvMk67QeQ7VEeO9AUEWeLL_U/edit) | [Recording](https://drive.google.com/file/d/12HLFeSfwmKV8sEpcx8r1BRL5GlFyIx1b/view)
 
 ## Deep Dive
 
