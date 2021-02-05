@@ -24,6 +24,7 @@
       "grading-dev-tpm-portfolios"
     ],
     "Assignments": [
+      "assignments-common-requirements",
       "assignments-pull-request-discussion"
     ]
   }
