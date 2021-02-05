@@ -25,7 +25,8 @@
     ],
     "Assignments": [
       "assignments-common-requirements",
-      "assignments-pull-request-discussion"
+      "assignments-pull-request-discussion",
+      "assignments-semester-plan"
     ]
   }
 }
