@@ -22,6 +22,9 @@
     "Grading": [
       "grading-dev-tpm-rubric",
       "grading-dev-tpm-portfolios"
+    ],
+    "Assignments": [
+      "assignments-pull-request-discussion"
     ]
   }
 }
