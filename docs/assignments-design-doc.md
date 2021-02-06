@@ -20,17 +20,23 @@ overcommit or undercommit to any particular feature.
 
 # Grading Tiers
 
-## 93%: Contribution was below expectations for that member of the team.
+## 93%
+
+Contribution was below expectations for that member of the team.
 
 - Design Document does not follow standards set in [How to Break Down Large Tasks](https://cornelldti.slab.com/posts/n5o29nxk)
 - Task proposals are infeasible or architecturally impossible
 
-## 96%: Contribution was at expectations for that member of the team. This is the baseline grade.
+## 96%
+
+Contribution was at expectations for that member of the team. This is the baseline grade.
 
 - Pros and cons of your approach are described.
 - Plan is mostly actionable.
 
-## 100%: Contribution was above expectations for that member of the team.
+## 100%
+
+Contribution was above expectations for that member of the team.
 
 - Pros and cons of your approach are clearly described.
 - Strong justification of why your design is optimal or most feasible.
