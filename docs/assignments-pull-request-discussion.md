@@ -27,5 +27,5 @@ In each dev portfolio, you will hopefully submit a pull request to your team's r
 ## Real Examples
 
 - [RFC: Major Refactor of Task and Subtask in Redux Store](https://github.com/cornell-dti/samwise/pull/423)
-- [RFC: Migrate from create-react-app-typescript to official CRA](https://github.com/cornell-dti/office-hours/pull/191)
-- [RFC: Modernize People View](https://github.com/cornell-dti/office-hours/pull/185)
+- [Migrate from create-react-app-typescript to official CRA](https://github.com/cornell-dti/office-hours/pull/191)
+- [Modernize People View](https://github.com/cornell-dti/office-hours/pull/185)
