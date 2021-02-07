@@ -14,9 +14,18 @@ containing a demo that showcases all the new things you've learned.
 
 ## Basic Requirements
 
-- Design decisions (behavior for uncommon cases, which scenarios to support, etc)
-- Implementation plans (implement infra A, then function B, then UI C)
-- Potential risks and difficulties, if any
+- For **devs** who want/need to learn to learn something new.
+- Need to talk to TPM first to come up with actionable learning plan
+- Required sections
+  - A link to your **personal** GitHub repo to demonstrate that you actually learned the stuff.
+  - Technology Overview
+    - Your own summary of the purpose of the technology
+    - What problems does it solve? Pros and cons
+  - Concept explanation
+    - Use your personal repo as as example, illustrate how is this technology applied (how to use the framework, workflow)
+  - Application
+    - How do you plan to use this technology in your subteam&#39;s codebase later
+  - (Note: if you are new/recently transitioned to a new role or subteam, doing the learning progress document on learning a portion of your team&#39;s current tech stack, ie learning Firebase or Typescript or Vue, is encouraged and explaining that is a valid reason for these questions).
 
 # Grading Tiers
 
