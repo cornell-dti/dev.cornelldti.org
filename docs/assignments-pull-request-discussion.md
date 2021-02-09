@@ -5,6 +5,10 @@ title: 'Pull Request Discussion'
 
 In each dev portfolio, you will hopefully submit a pull request to your team's repository with your work for that week. **In the pull request discussion, you will take that PR that you submitted and discuss your implementation strategy, how you tested it, and any trade offs.** You will also elaborate on **what you learned** from completing that pull request.
 
+:::note
+The pull request discussion is the easiest dev assignment to complete and will usually earn you only the baseline grade. _You may only use this option once_ so please consider saving this dev assignment for when you are most busy.
+:::
+
 ## Grading Tiers
 
 93%: Contribution was below expectations for that member of the team.
