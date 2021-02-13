@@ -23,25 +23,19 @@ This type of written assignment will be forwarded to relevant subteams&#39; chan
   - How to prevent this in the future
   - How does this incident prompt your subteam to design more secure systems (if applicable)
 
-# Grading Tiers
+## Grading Tiers
 
-## 93%
-
-Contribution was below expectations for that member of the team.
+93%: Contribution was below expectations for that member of the team.
 
 - Issue or vulnerability is clearly not an actual issue
 - Vulnerability/issue is created for the sake of being able to write about it
 
-## 96%
-
-Contribution was at expectations for that member of the team. This is the baseline grade.
+96%: Contribution was at expectations for that member of the team. This is the baseline grade.
 
 - Issue or vulnerability is problematic to that product
 - Provide an decent attack plan
 
-## 100%
-
-Contribution was above expectations for that member of the team.
+100%: Contribution was above expectations for that member of the team.
 
 - Issue or vulnerability is not obvious to find and is problematic to that product
 - Provide an actionable attack plan

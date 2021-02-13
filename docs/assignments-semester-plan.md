@@ -3,6 +3,8 @@ id: assignments-semester-plan
 title: 'Semester Plan'
 ---
 
+## Description
+
 Outline tasks for this semester and, if possible, who will be assigned to them.
 Your plans should be feasible, detailed, clear, and a good quantitative indicator of your team's progress.
 **Only for TPMs.**

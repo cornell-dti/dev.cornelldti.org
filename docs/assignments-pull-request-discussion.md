@@ -3,6 +3,8 @@ id: assignments-pull-request-discussion
 title: 'Pull Request Discussion'
 ---
 
+## Description
+
 In each dev portfolio, you will hopefully submit a pull request to your team's repository with your work for that week. **In the pull request discussion, you will take that PR that you submitted and discuss your implementation strategy, how you tested it, and any trade offs.** You will also elaborate on **what you learned** from completing that pull request.
 
 :::note
