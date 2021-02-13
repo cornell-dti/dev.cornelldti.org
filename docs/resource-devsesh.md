@@ -25,6 +25,7 @@ title: 'Past DevSesh'
 - [DevSesh FA20#4: Webpack](https://docs.google.com/presentation/d/1aELYP2lSry92IIET_eop8J21r_T1QsvM4cNHpCRsQbE/edit?usp=sharing)
 - [DevSesh FA20#5: Samlang](https://docs.google.com/presentation/d/1ttld-VNzghTa5EGsoTnMBHJrTr2je-vx9B2uSG_Ocss/edit?usp=sharing)
 - [DevSesh FA20#6: CoursePlan Requirement Computation](https://docs.google.com/presentation/d/1mEGkDaLP7f9fa5SCoqmDvMk67QeQ7VEeO9AUEWeLL_U/edit) | [Recording](https://drive.google.com/file/d/12HLFeSfwmKV8sEpcx8r1BRL5GlFyIx1b/view)
+- [DevSesh SP21#1: Code Cleanup Week](https://docs.google.com/presentation/d/1rATQwGQcOExfAVsnmfkzSakInpxUsjCbkhiIHCqJPIQ/edit#slide=id.p) | [Recording](https://drive.google.com/file/d/1hFqHNjw4ARqIIAmPaRj16wNS54HcFiOC/view?usp=sharing)
 
 ## Onboarding
 
