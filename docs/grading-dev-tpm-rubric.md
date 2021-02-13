@@ -3,11 +3,11 @@ id: grading-dev-tpm-rubric
 title: 'Dev & TPM Grading Rubric'
 ---
 
-## Role Specific Grading Breakdown (**30%**)
+## Role Specific Grading Breakdown (**40%**)
 
-- **15%** - dev assignments
-- **15%** - role meeting attendance
-  - Devs: bi-weekly devsesh (Saturday 2pm after all hands)
+- **10% \* 3** - dev assignments (10% each)
+- **10%** - role meeting attendance
+  - Devs: bi-weekly devsesh (Saturday 1:30pm after all hands)
   - TPMs: TPM meetings
 
 ## Dev Subteam Performance (**30%**)
