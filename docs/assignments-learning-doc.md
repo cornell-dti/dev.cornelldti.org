@@ -27,24 +27,18 @@ containing a demo that showcases all the new things you've learned.
     - How do you plan to use this technology in your subteam&#39;s codebase later
   - (Note: if you are new/recently transitioned to a new role or subteam, doing the learning progress document on learning a portion of your team&#39;s current tech stack, ie learning Firebase or Typescript or Vue, is encouraged and explaining that is a valid reason for these questions).
 
-# Grading Tiers
+## Grading Tiers
 
-## 93%
-
-Contribution was below expectations for that member of the team.
+93%: Contribution was below expectations for that member of the team.
 
 - No examples of actually attempting to code tutorials or own work set by themselves and TPM provided (ie no technical proof of learning)
 
-## 96%
-
-Contribution was at expectations for that member of the team. This is the baseline grade.
+96%: Contribution was at expectations for that member of the team. This is the baseline grade.
 
 - Pros and cons of your approach are described.
 - Plan is mostly actionable.
 
-## 100%
-
-Contribution was above expectations for that member of the team.
+100%: Contribution was above expectations for that member of the team.
 
 - Pros and cons of your approach are clearly described.
 - Strong justification of why your design is optimal or most feasible.
