@@ -101,13 +101,13 @@ Therefore, we can give it the same ID as the course it will replace. For example
 CS the same ID as the CS 1110, so that AP CS will be a fake course that looks like:
 
 ```json
-{ roster: “FA20”, id: 1234, name: “AP CS” }
+{ roster: "FA20", id: 1234, name: "AP CS" }
 ```
 
 while the CS 1110 object might look like
 
 ```json
-{ roster: “FA20”, id: 1234, name: “CS 1110” }
+{ roster: "FA20", id: 1234, name: "CS 1110" }
 ```
 
 ### Double Counting Detection
