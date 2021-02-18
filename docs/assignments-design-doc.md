@@ -34,3 +34,7 @@ overcommit or undercommit to any particular feature.
 
 - Pros and cons of your approach are clearly described.
 - Strong justification of why your design is optimal or most feasible.
+
+## Real Examples
+
+[CoursePlan Requirement Checking Design Document](./assignments-examples-cp-requirements-algo) by [Sam Zhou](https://developersam.com/)
