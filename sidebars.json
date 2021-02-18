@@ -1,15 +1,28 @@
 {
   "someSidebar": {
-    "Getting Started": ["getting-started-introduction", "getting-started-contributing"],
+    "Getting Started": [
+      "getting-started-introduction",
+      "getting-started-contributing"
+    ],
     "New Developer Onboarding": [
       "onboarding-join-github-organization",
       "onboarding-dev-workflow",
       "onboarding-editor",
       "onboarding-git"
     ],
-    "Guides": ["guide-code-quality", "guide-devops", "guide-code-review"],
-    "Resources": ["resource-common-docs-pointer", "resource-devsesh"],
-    "Grading": ["grading-dev-tpm-rubric", "grading-dev-tpm-portfolios"],
+    "Guides": [
+      "guide-code-quality",
+      "guide-devops",
+      "guide-code-review"
+    ],
+    "Resources": [
+      "resource-common-docs-pointer",
+      "resource-devsesh"
+    ],
+    "Grading": [
+      "grading-dev-tpm-rubric",
+      "grading-dev-tpm-portfolios"
+    ],
     "Assignments": [
       "assignments-common-requirements",
       "assignments-pull-request-discussion",
@@ -19,7 +32,9 @@
       "assignments-design-doc",
       "assignments-learning-doc",
       "assignments-tech-critique-security-doc"
+    ],
+    "Assignment Examples": [
+      "assignments-examples-cp-requirements-algo"
     ]
   }
 }
-
