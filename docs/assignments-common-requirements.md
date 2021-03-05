@@ -5,13 +5,12 @@ title: 'Common Requirements'
 
 ## Assignment Options
 
-Each semester you are expected to complete three (3) dev assignments. You will have a choice of 3 of the following options:
+For SP21, you will choose one of the below assignment options for Dev Assignment 1:
 
-- [Pull Request Discussion](./assignments-pull-request-discussion)
 - [Unit Testing](./assignments-unit-testing)
 - [Documentation of Existing Code](./assignments-documentation)
 - [Semester Plan](./assignments-semester-plan) (**TPM first assignment only**, contact `@dev-leadz` with a good reason why you want to do this as a developer)
-- [Design Doc](./assignments-design-doc)
+- [Design Doc](./assignments-design-doc) (**Freshman first assignment only**)
 - [Learning Doc](./assignments-learning-doc)
 - [Technical Critique/Security Vulnerability](./assignments-tech-critique-security-doc)
 
