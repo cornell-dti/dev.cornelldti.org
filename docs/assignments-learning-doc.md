@@ -3,6 +3,14 @@ id: assignments-learning-doc
 title: 'Learning Doc'
 ---
 
+:::caution
+Learning doc is **only** valid for **newbie developers** for dev assignment 1 in SP21.
+:::
+
+:::note
+For newbies completing this assignment, please complete tutorials for your subteams _complete_ tech stack (i.e., if your team uses TypeScript, Firebase, and React please look into all of them).
+:::
+
 ## Description
 
 A learning doc is simply a document detailing a technology or stack which you
