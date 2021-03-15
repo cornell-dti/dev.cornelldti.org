@@ -21,7 +21,8 @@
     ],
     "Grading": [
       "grading-dev-tpm-rubric",
-      "grading-dev-tpm-portfolios"
+      "grading-dev-tpm-portfolios",
+      "grading-dev-1-credit-rubric"
     ],
     "Assignments": [
       "assignments-common-requirements",
