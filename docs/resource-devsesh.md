@@ -28,7 +28,7 @@ title: 'Past DevSesh'
 - [DevSesh SP21#1: Code Cleanup Week](https://docs.google.com/presentation/d/1rATQwGQcOExfAVsnmfkzSakInpxUsjCbkhiIHCqJPIQ/edit#slide=id.p) | [Recording](https://drive.google.com/file/d/1hFqHNjw4ARqIIAmPaRj16wNS54HcFiOC/view?usp=sharing)
 - [DevSesh SP21#2: Carriage Subteam Architecture](https://docs.google.com/presentation/d/1XDuLZgimtET7dPLYisfHgKzcj9u1NqGs0b4hZdBc6wE/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/19bxXABDcAJE53UvuTaF8KaFuuHujRNJO/view?usp=sharing)
 - [DevSesh SP21#3: Entity Components Systems](https://docs.google.com/presentation/d/1XDuLZgimtET7dPLYisfHgKzcj9u1NqGs0b4hZdBc6wE/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/19bxXABDcAJE53UvuTaF8KaFuuHujRNJO/view?usp=sharing)
-- [DevSesh SP21#4: DevOps](https://docs.google.com/presentation/d/1CGncrqkCtTFNW6fKl0Vk3Eqd6lBgPafTXon6WfGg7-M/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1g0gi8bCJalh8CdUHIya42Mh1JUtbSE_r/view?usp=sharing) 
+- [DevSesh SP21#4: DevOps](https://docs.google.com/presentation/d/1CGncrqkCtTFNW6fKl0Vk3Eqd6lBgPafTXon6WfGg7-M/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1g0gi8bCJalh8CdUHIya42Mh1JUtbSE_r/view?usp=sharing)
 
 ## Onboarding
 
