@@ -27,8 +27,9 @@ title: 'Past DevSesh'
 - [DevSesh FA20#6: CoursePlan Requirement Computation](https://docs.google.com/presentation/d/1mEGkDaLP7f9fa5SCoqmDvMk67QeQ7VEeO9AUEWeLL_U/edit) | [Recording](https://drive.google.com/file/d/12HLFeSfwmKV8sEpcx8r1BRL5GlFyIx1b/view)
 - [DevSesh SP21#1: Code Cleanup Week](https://docs.google.com/presentation/d/1rATQwGQcOExfAVsnmfkzSakInpxUsjCbkhiIHCqJPIQ/edit#slide=id.p) | [Recording](https://drive.google.com/file/d/1hFqHNjw4ARqIIAmPaRj16wNS54HcFiOC/view?usp=sharing)
 - [DevSesh SP21#2: Carriage Subteam Architecture](https://docs.google.com/presentation/d/1XDuLZgimtET7dPLYisfHgKzcj9u1NqGs0b4hZdBc6wE/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/19bxXABDcAJE53UvuTaF8KaFuuHujRNJO/view?usp=sharing)
-- [DevSesh SP21#3: Entity Components Systems](https://docs.google.com/presentation/d/1XDuLZgimtET7dPLYisfHgKzcj9u1NqGs0b4hZdBc6wE/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/19bxXABDcAJE53UvuTaF8KaFuuHujRNJO/view?usp=sharing)
+- [DevSesh SP21#3: Entity Components Systems](https://docs.google.com/presentation/d/1VvtskwIPRufn3i8X-JZ_shxfiDmE1OPhhSWQwHw2eDo/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/19bxXABDcAJE53UvuTaF8KaFuuHujRNJO/view?usp=sharing)
 - [DevSesh SP21#4: DevOps](https://docs.google.com/presentation/d/1CGncrqkCtTFNW6fKl0Vk3Eqd6lBgPafTXon6WfGg7-M/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1g0gi8bCJalh8CdUHIya42Mh1JUtbSE_r/view?usp=sharing)
+- [DevSesh SP21#5: Automate Your Life](https://docs.google.com/presentation/d/1PdviQmjTSdYvAvxtCT0EmaZcdGU3iKz_br2GAvxcvDs/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1MfO7hASd9w3nQuYm5YPk6KgJDbUvYkOQ/view?usp=sharing)
 
 ## Onboarding
 
