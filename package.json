@@ -11,15 +11,15 @@
     "format:check": "prettier --check '**/*.{ts,js,tsx,jsx,scss,css,html,md,mdx}'"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.70",
-    "@docusaurus/module-type-aliases": "^2.0.0-alpha.70",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.70",
-    "@types/react": "^17.0.0",
-    "chart.js": "^2.9.4",
-    "classnames": "^2.2.6",
-    "react": "^17.0.1",
-    "react-chartjs-2": "^2.11.1",
-    "react-dom": "^17.0.1"
+    "@docusaurus/core": "^2.0.0-beta.0",
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.0",
+    "@docusaurus/preset-classic": "^2.0.0-beta.0",
+    "@types/react": "^17.0.8",
+    "chart.js": "^3.3.0",
+    "clsx": "^1.1.1",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.3",
+    "react-dom": "^17.0.2"
   },
   "browserslist": {
     "production": [
@@ -34,6 +34,6 @@
     ]
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "prettier": "2.3.0"
   }
 }

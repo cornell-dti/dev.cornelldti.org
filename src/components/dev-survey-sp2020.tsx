@@ -1,7 +1,7 @@
 import React from 'react';
-import classnames from 'classnames';
+import clsx from 'clsx';
 import useThemeContext from '@theme/hooks/useThemeContext';
-import { defaults, Pie, HorizontalBar } from 'react-chartjs-2';
+import { defaults, Pie, Bar } from 'react-chartjs-2';
 import styles from '../pages/styles.module.css';
 
 const BLUE = '#2196f3cc';
@@ -15,11 +15,11 @@ function SurveySP20Content() {
   const isDarkTheme = useThemeContext().isDarkTheme;
   const fontColor = isDarkTheme ? 'white' : '#666666';
 
-  defaults.global.defaultFontColor = fontColor;
+  defaults.color = fontColor;
 
   return (
     <>
-      <header className={classnames('hero', styles.heroBanner, 'hero-survey')}>
+      <header className={clsx('hero', styles.heroBanner, 'hero-survey')}>
         <div className="container">
           <h1 className="hero__title">State of DTI Devs SP2020</h1>
         </div>
@@ -31,6 +31,7 @@ function SurveySP20Content() {
               <div className="col col--6 survey-block">
                 <h2 className="centered">Backend framework used by subteams</h2>
                 <Pie
+                  type="pie"
                   data={{
                     labels: ['Express', 'Firebase', 'Django'],
                     datasets: [
@@ -46,6 +47,7 @@ function SurveySP20Content() {
               <div className="col col--6 survey-block">
                 <h2 className="centered">Web frontend framework used by subteams</h2>
                 <Pie
+                  type="pie"
                   data={{
                     labels: ['React', 'Vue'],
                     datasets: [
@@ -62,7 +64,9 @@ function SurveySP20Content() {
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">Languages usage by subteams</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'TypeScript',
@@ -107,7 +111,9 @@ function SurveySP20Content() {
               </div>
               <div className="col col--6 survey-block">
                 <h2 className="centered">Languages usage by individuals @ DTI</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'TypeScript',
@@ -136,7 +142,9 @@ function SurveySP20Content() {
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">Languages liked by individuals @ DTI</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'TypeScript',
@@ -164,7 +172,9 @@ function SurveySP20Content() {
               </div>
               <div className="col col--6 survey-block">
                 <h2 className="centered">Frameworks liked by individuals @ DTI</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'Express',
@@ -195,7 +205,9 @@ function SurveySP20Content() {
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">How developers @ DTI test</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'Play Test',
@@ -220,7 +232,9 @@ function SurveySP20Content() {
               </div>
               <div className="col col--6 survey-block">
                 <h2 className="centered">What our developers know and want to know</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: ['React', 'Vue', 'Firebase', 'Backend', 'iOS', 'Android', 'Flutter'],
                     datasets: [
@@ -250,7 +264,9 @@ function SurveySP20Content() {
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">Languages used for developers' side projects</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'Python',
@@ -285,7 +301,9 @@ function SurveySP20Content() {
               </div>
               <div className="col col--6 survey-block">
                 <h2 className="centered">Framework used for developers' side projects</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'React',
@@ -319,7 +337,9 @@ function SurveySP20Content() {
             <div className="row">
               <div className="col col--6 survey-block">
                 <h2 className="centered">Tools used for developers' side projects</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: [
                       'Type Checkers',
@@ -346,7 +366,9 @@ function SurveySP20Content() {
               </div>
               <div className="col col--6 survey-block">
                 <h2 className="centered">Number of active side projects by individuals</h2>
-                <HorizontalBar
+                <Bar
+                  type="bar"
+                  options={{ indexAxis: 'y' }}
                   data={{
                     labels: ['0', '1', '2', '3', '4', '5', '6'],
                     datasets: [

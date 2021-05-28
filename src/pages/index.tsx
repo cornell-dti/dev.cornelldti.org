@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react';
-import classnames from 'classnames';
+import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -50,7 +50,7 @@ const features: Feature[] = [
 function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames('col col--4', styles.feature)}>
+    <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
@@ -67,13 +67,13 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
-      <header className={classnames('hero', styles.heroBanner)}>
+      <header className={clsx('hero', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={classnames('button button--primary button--lg', styles.getStarted)}
+              className={clsx('button button--primary button--lg', styles.getStarted)}
               to={useBaseUrl('docs/getting-started-introduction')}
             >
               Get Started
@@ -87,7 +87,7 @@ function Home() {
             <div className="container">
               <div className="row">
                 {features.map(({ imageUrl, title, description }, idx) => (
-                  <div key={idx} className={classnames('col col--4', styles.feature)}>
+                  <div key={idx} className={clsx('col col--4', styles.feature)}>
                     {imageUrl && (
                       <div className="text--center">
                         <img
