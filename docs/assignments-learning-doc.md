@@ -1,39 +1,49 @@
 ---
 id: assignments-learning-doc
-title: 'Learning Doc'
+title: 'Learning Doc (Learning Goals + Learning Progress)'
 ---
 
 :::caution
-Learning doc is **only** valid for **newbie developers** for dev assignment 1 in SP21.
+Learning doc is **only** valid for **newbie developers** in FA21.
 :::
 
-:::note
-For newbies completing this assignment, please complete tutorials for your subteams _complete_ tech stack (i.e., if your team uses TypeScript, Firebase, and React please look into all of them).
-:::
+## Overview
 
-## Description
+The Learning Doc assignment spans TWO dev assignments. The first assignment is the **Learning Goals** doc, in which you detail what you wish to learn. The second assignment is the **Learning Progress** doc, in which you document your progress in learning what you set out to learn in the first assignment. These two assignments will fulfill your two developer assignments requirement in your first semester on DTI.
 
-A learning doc is simply a document detailing a technology or stack which you
-have learned in place of your team work for the current assignment. In this
-document, you should break down exactly what you learned and from where you
-learned it. Be sure to link any tutorials or examples that you referenced or
-followed. In the end, it would likely be easiest to have an example repo
-containing a demo that showcases all the new things you've learned.
+## Learning Goals
 
-## Basic Requirements
+This is the first assignment.
 
-- For **devs** who want/need to learn to learn something new.
-- Need to talk to TPM first to come up with actionable learning plan
-- Required sections
-  - A link to your **personal** GitHub repo to demonstrate that you actually learned the stuff.
-  - Technology Overview
+A Learning Goals document states what you wish to learn this semester, accompanied by a short justification for each goal if necessary.
+
+What we are looking for in terms of goals (aim for at least 5 goals):
+
+- 3 actionable, targeted software areas you want to learn or improve (example: writing React Hooks or implementing React-Router)
+- 2 social, teamwork, and other professional skills that you want to develop
+
+If you are unfamiliar with your subteam's tech stack, you should be setting goals to learn that.
+
+## Learning Progress
+
+This is the second assignment.
+
+This is where you demonstrate progress in your learning goals. Ideally, go into detail for one engineering-related goals, and briefly talk about your progress in the others. Aim to have something to show in terms of progress for the main goal you'll discuss - a personal GitHub repo is great for this.
+
+Required sections:
+
+- Main Goal
+  - Overview
     - Your own summary of the purpose of the technology
     - What problems does it solve? Pros and cons
   - Concept explanation
+    - A link to your **personal** GitHub repo to demonstrate that you actually learned the stuff.
     - Use your personal repo as as example, illustrate how is this technology applied (how to use the framework, workflow)
   - Application
-    - How do you plan to use this technology in your subteam&#39;s codebase later
-  - (Note: if you are new/recently transitioned to a new role or subteam, doing the learning progress document on learning a portion of your team&#39;s current tech stack, ie learning Firebase or Typescript or Vue, is encouraged and explaining that is a valid reason for these questions).
+    - How do you might you use this technology in your subteam's codebase?
+- Other goals
+  - How have you progressed? Examples of how you've grown?
+  - How will these learnings help you in the future?
 
 ## Grading Tiers
 
