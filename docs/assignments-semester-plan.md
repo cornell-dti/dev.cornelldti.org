@@ -3,11 +3,21 @@ id: assignments-semester-plan
 title: 'Semester Plan'
 ---
 
+:::caution
+Semester Plan is **only** valid for **TPMs** in FA21.
+:::
+
 ## Description
 
 Outline tasks for this semester and, if possible, who will be assigned to them.
 Your plans should be feasible, detailed, clear, and a good quantitative indicator of your team's progress.
-**Only for TPMs.**
+
+Please include the following:
+
+- A list of features and fixes you plan to implement triaged by importance and difficulty
+- Any new technologies that you or your devs will introduce your project
+- Dev changes: dev shortages? Do you have someone who wants to quit or make an internal transfer?
+
 
 ## Grading Tiers
 
@@ -23,6 +33,7 @@ Your plans should be feasible, detailed, clear, and a good quantitative indicato
 - Detailed, sprint-by-sprint breakdown
 - Feasible given current team
 - Manageably-sized tasks, assigned to team members where possible
+- A list of features and fixes you plan to implement triaged by importance and difficulty.
 
 100%: Contribution was above expectations for that member of the team.
 

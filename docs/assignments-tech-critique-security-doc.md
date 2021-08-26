@@ -18,9 +18,12 @@ title: 'Technical Critique / Security Vulnerability'
   - How to fix
   - How to prevent this in the future
   - How does this incident prompt your subteam to design more secure systems (if applicable)
+  - Notes:
+    - Vulnerabilities are first-come, first-serve. **Check with us before attempting this assignment, lest you review a vulnerability that has already been found**
+    - Please do not disclose your vulnerability publicly (we don't want to publicize how to take down DTI projects)!
 
 :::danger
-This type of written assignment will be forwarded to relevant subteams&#39; channels with your personal information anonymized, if you agree to share. **DO NOT** create a GitHub issue for security vulnerabilities (because we don&#39;t want to publicize how to take down DTI projects)! You are **NOT** allowed to hack non-DTI users&#39; accounts on the production site. Avoid hacking DTI users&#39; accounts to demonstrate the problem if you can.
+This type of written assignment will be forwarded to relevant subteams&#39; channels with your personal information anonymized, if you agree to share. You are **NOT** allowed to hack non-DTI users&#39; accounts on the production site. Avoid hacking DTI users&#39; accounts to demonstrate the problem if you can.
 :::
 
 ## Grading Tiers

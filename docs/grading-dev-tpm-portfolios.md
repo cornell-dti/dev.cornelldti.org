@@ -7,14 +7,15 @@ Given there have been many questions about what is allowed for a developer portf
 
 ## Developer
 
-Every portfolio must include some indication of what work you have done (see below). **In general, if you submit multiple PRs in one portfolio, only one will count towards the 4 minimum.** However, submitting multiple PR links in one portfolio will increase your chances of getting a higher grade in the quality and contribution sections of your grade. Moreover, your PRs should be made throughout the semester. While it doesn't necessarily have to be in exact 2 week increments, if the four you submit were all made in around the same time (like all were made in the month of September), that will not all count.
-Additionally, two of the four portfolios must include a link to a pull request you reviewed. The review made **must** be more than a "LGTM". If it truly is all good (which is unlikely, if nothing else there are almost always nits to catch), then mention things you were impressed that they did! **Unless granted an exception by the developer leads, you must include a reviewed PR in two separate portfolios, and adding 2 reviews in one portfolio will not count towards the bare minimum.**
+Portfolios must include some indication of what work you have done (see below).
 
-For the work submitted in every portfolio, in general, the main submission here should be a **link to a published (in review, approved, or merged) pull request.** However, there are a few other options in cases where a pull request does not work, so all options and a description will be found below.
+Each portfolio must include at least one link to **a PR you've made** since the last portfolio. Such PRs must be **published (in review, approved, or merged)**. You don't have to describe the PR in the portfolio, but make sure PR descriptions are detailed, as they should be!
 
-### Pull Request
+Each portfolio must ALSO include at least one link to **a PR you've reviewed** since the last portfolio. The review made **must** be more than a "LGTM". If it truly is all good (which is unlikely, if nothing else there are almost always nits to catch), then mention things you were impressed that they did!
 
-This is the default option, and in general, this is what you should submit. You need to link a **non-trivial, published** pull request. Unless you + the TPM have given us a valid reason, you should be author to at least some, if not all of the commits on the pull request. In general, these should be merged, approved, or far into the review process, but we will not require that to prevent people from automatically approving PRs in order to ensure that person has an approved PR for the portfolio. All you need to include is the link, your PR description on GitHub should tell us what we need to know!
+To summarize: the work submitted in every portfolio, in general, includes  **a link to a PR you've made** and **a link to a PR you've given a non-trivial review**. That's it. We expect most devs to follow this format.
+
+In exceptional circumstances where this simple PR/review link submission doesn't apply, there are other options for the dev portfolio detailed below.
 
 ### Link to Personal Repository
 
@@ -62,7 +63,7 @@ Both you and your TPM should communicate with us if such a situation arises. In 
 
 ### Other Role Portfolio
 
-Like the commit, this case should **rarely, if ever** come into play. If your team needs you to temporarily take on a different role's work (design, business, PM, TPM) for **up to one sprint**, you can also submit a different role's portfolio as your dev portfolio. However, there are some limitations
+Like the commit, this case should **rarely, if ever** come into play. If your team needs you to temporarily take on a different role's work (design, business, PM, TPM) for **up to one sprint**, you can also submit a different role's portfolio as your dev portfolio. However, there are some limitations:
 
 1. **As soon as you realize you will be doing other role work for a majority of the sprint**, you and your TPM needs to let the developer leads & the respective role's leads know, as that other role may try to move someone else to fill your team's need instead. Ideally the TPM should have let us know before you even find out about this, but do message us in case we missed something or there was miscommunication between the TPM and Dev Leads.
 2. **This can only be done for one sprint.** If you need to continue in that other role, then we will interview you for a half dev half X or potentially even a full transition to the new role.

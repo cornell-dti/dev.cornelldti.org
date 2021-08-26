@@ -7,11 +7,12 @@ title: 'Common Requirements'
 
 For SP21, you will choose one of the below assignment options for Dev Assignment 1:
 
+- [Learning Goals + Learning Progress](./assignments-learning-doc) (**Newbie assignment only**)
+- [Pull Request Discussion](./assignments-pull-request-discussion)
 - [Unit Testing](./assignments-unit-testing)
 - [Documentation of Existing Code](./assignments-documentation)
-- [Semester Plan](./assignments-semester-plan) (**TPM first assignment only**, contact `@dev-leadz` with a good reason why you want to do this as a developer)
-- [Design Doc](./assignments-design-doc) (**Freshman first assignment only**)
-- [Learning Doc](./assignments-learning-doc)
+- [Semester Plan](./assignments-semester-plan) (**TPM first assignment only**, if you're a developer with a good reason for doing this, contact `@dev-leadz` )
+- [Design Doc](./assignments-design-doc)
 - [Technical Critique/Security Vulnerability](./assignments-tech-critique-security-doc)
 
 _Have an idea for a different dev assignment option?_ Get permission from `@dev-leadz` and work with your TPM to ensure your idea is feasible and fits in our assignment requirements. Some example other dev assignment options we've accepted are: **dev onboarding document**, **TPM onboarding document**, and **SEV postmortem** (but do still let us know if you're considering these options!)
@@ -24,8 +25,8 @@ Each option can only be used once per a semester. Contact `@dev-leadz` with a go
 
 Each dev assignment should be a writeup with the following baseline requirements:
 
-- At least 2-3 paragraphs, 300-400 words
-- Double space, 12pt, reasonably sized headers, PDF format
+- At least 2-3 paragraphs, 300-450 words
+- Must be in a legible font, double-spacing recommended, PDF format
 - Must be based on work done this semester that has not been presented in an assignment before
 
 ## Late Policy
