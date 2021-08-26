@@ -18,7 +18,6 @@ Please include the following:
 - Any new technologies that you or your devs will introduce your project
 - Dev changes: dev shortages? Do you have someone who wants to quit or make an internal transfer?
 
-
 ## Grading Tiers
 
 93%: Contribution was below expectations for that member of the team.

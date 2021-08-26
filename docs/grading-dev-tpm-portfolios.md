@@ -13,7 +13,7 @@ Each portfolio must include at least one link to **a PR you've made** since the 
 
 Each portfolio must ALSO include at least one link to **a PR you've reviewed** since the last portfolio. The review made **must** be more than a "LGTM". If it truly is all good (which is unlikely, if nothing else there are almost always nits to catch), then mention things you were impressed that they did!
 
-To summarize: the work submitted in every portfolio, in general, includes  **a link to a PR you've made** and **a link to a PR you've given a non-trivial review**. That's it. We expect most devs to follow this format.
+To summarize: the work submitted in every portfolio, in general, includes **a link to a PR you've made** and **a link to a PR you've given a non-trivial review**. That's it. We expect most devs to follow this format.
 
 In exceptional circumstances where this simple PR/review link submission doesn't apply, there are other options for the dev portfolio detailed below.
 

@@ -9,7 +9,7 @@ Learning doc is **only** valid for **newbie developers** in FA21.
 
 ## Overview
 
-The Learning Doc assignment spans TWO dev assignments. The first assignment is the **Learning Goals** doc, in which you detail what you wish to learn. The second assignment is the **Learning Progress** doc, in which you document your  progress in learning what you set out to learn in the first assignment. These two assignments will fulfill your two developer assignments requirement in your first semester on DTI.
+The Learning Doc assignment spans TWO dev assignments. The first assignment is the **Learning Goals** doc, in which you detail what you wish to learn. The second assignment is the **Learning Progress** doc, in which you document your progress in learning what you set out to learn in the first assignment. These two assignments will fulfill your two developer assignments requirement in your first semester on DTI.
 
 ## Learning Goals
 
