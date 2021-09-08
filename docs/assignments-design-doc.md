@@ -22,7 +22,7 @@ overcommit or undercommit to any particular feature.
 
 93%: Contribution was below expectations for that member of the team.
 
-- Design Document does not follow standards set in [How to Break Down Large Tasks](https://cornelldti.slab.com/posts/n5o29nxk)
+- Design Document does not follow standards set in [How to Break Down Large Tasks](/docs/slab-large-tasks)
 - Task proposals are infeasible or architecturally impossible
 
 96%: Contribution was at expectations for that member of the team. This is the baseline grade.
