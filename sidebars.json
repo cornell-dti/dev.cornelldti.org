@@ -17,7 +17,8 @@
     ],
     "Resources": [
       "resource-common-docs-pointer",
-      "resource-devsesh"
+      "resource-devsesh",
+      "resource-1-1"
     ],
     "Grading": [
       "grading-dev-tpm-rubric",
