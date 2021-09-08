@@ -5,10 +5,15 @@ title: 'Dev & TPM Grading Rubric'
 
 ## Role Specific Grading Breakdown (**40%**)
 
-- **10% \* 3** - dev assignments (10% each)
-- **10%** - role meeting attendance
-  - Devs: bi-weekly devsesh (Saturday 1:30pm after all hands)
+- **30%** - Dev Assignments
+  - 10% - Dev Assignment 1
+  - 10% - Dev Assignment 2
+  - 5% - Mid Sem Peer Review
+  - 5% - Late Sem Peer Review
+- **10%** - Role Meeting Attendance
+  - Devs: bi-weekly DevSesh
   - TPMs: TPM meetings
+  - Can miss up to 2 meetings (DevSesh or TPM), no questions asked
 
 ## Dev Subteam Performance (**30%**)
 
@@ -16,11 +21,14 @@ title: 'Dev & TPM Grading Rubric'
 
 Most people will get a 5 (full score). If there is notable complaints in the peer evaluation form, we will deal with it case by case.
 
-### Reliability (**8%**)
+### Reliability (aka Dev Portfolios) (**8%**)
 
-2% for each valid pull request link for dev portfolio. 1 if submitted only commit link. For two of the portfolios, a PR they review must be included in addition to a PR they made (1 point if only a PR they made is included). 0 for description only submission.
+2% for each completed dev portfolio.
 
-### Completion of Work (**8%**)
+- 1% for at least 1 pull request link.
+- 1% for at least 1 review link.
+
+### Quality of Work (**8%**)
 
 - 8 if dev's work defines the word 'master hacker' OR if a dev actively contributes to other parts of the project (so a mainly frontend works on backend, an iOS works on Android, etc)
   - Semester's work contains several impressive changes.
@@ -43,7 +51,7 @@ Most people will get a 5 (full score). If there is notable complaints in the pee
 - 4-3 GitHub contribution graph is extremely sparse.
 - 2-1 Hopefully no one gets there.
 
-### Quality (**5%**)
+### Quality (aka Don’t Commit Crimes) (**5%**)
 
 Start from 5. Deduct certain points for each problem below.
 

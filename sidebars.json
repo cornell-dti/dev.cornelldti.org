@@ -16,8 +16,11 @@
       "guide-code-review"
     ],
     "Resources": [
+      "resource-timeline-fa21",
+      "resource-development-guidelines",
       "resource-common-docs-pointer",
-      "resource-devsesh"
+      "resource-devsesh",
+      "resource-1-1"
     ],
     "Grading": [
       "grading-dev-tpm-rubric",
@@ -36,6 +39,15 @@
     ],
     "Assignment Examples": [
       "assignments-examples-cp-requirements-algo"
+    ],
+    "Slab Archive": [
+      "slab-index",
+      "slab-javascript-unit-testing",
+      "slab-large-tasks",
+      "slab-postmortem-template",
+      "slab-repo-automations",
+      "slab-tpm-onboarding",
+      "slab-tpm-vs-pm"
     ]
   }
 }
