@@ -6,14 +6,14 @@ title: 'Dev & TPM Grading Rubric'
 ## Role Specific Grading Breakdown (**40%**)
 
 - **30%** - Dev Assignments
-  - 10% - Dev Assignment 1 
+  - 10% - Dev Assignment 1
   - 10% - Dev Assignment 2
   - 5% - Mid Sem Peer Review
   - 5% - Late Sem Peer Review
 - **10%** - Role Meeting Attendance
   - Devs: bi-weekly DevSesh
   - TPMs: TPM meetings
-  - Can miss up to 2 meetings (DevSesh or TPM), no questions asked  
+  - Can miss up to 2 meetings (DevSesh or TPM), no questions asked
 
 ## Dev Subteam Performance (**30%**)
 

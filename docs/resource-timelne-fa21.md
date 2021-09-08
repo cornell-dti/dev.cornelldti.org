@@ -9,7 +9,6 @@ Timeline is subject to change, but we will try to keep this page as updated as p
 
 ## Dev
 
-
 | Time           | Event                                    |
 | -------------- | ---------------------------------------- |
 | Before Sept 20 | 1:1 with TPM                             |
