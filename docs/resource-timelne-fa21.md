@@ -13,7 +13,7 @@ Timeline is subject to change, but we will try to keep this page as updated as p
 | Time           | Event                                    |
 | -------------- | ---------------------------------------- |
 | Before Sept 20 | 1:1 with TPM                             |
-| **Oct 2nd**        | **Required DevSesh 1st newbie cohort**   |
+| **Oct 2nd**    | **Required DevSesh 1st newbie cohort**   |
 | Oct 8th        | 1st Dev Portfolio due (Newbies may skip) |
 | Oct 10th       | 1st Dev Assignment due                   |
 | Oct 31th       | 2nd Dev Portfolio                        |
