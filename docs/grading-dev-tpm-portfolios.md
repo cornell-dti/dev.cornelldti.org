@@ -9,11 +9,14 @@ Given there have been many questions about what is allowed for a developer portf
 
 Portfolios must include some indication of what work you have done (see below).
 
+**Requirements**
+Please include two sections: one section for **all PRs that you have made** and **all PRs that you have reviewed** since the last portfolio due date.
+
 Each portfolio must include at least one link to **a PR you've made** since the last portfolio. Such PRs must be **published (in review, approved, or merged)**. You don't have to describe the PR in the portfolio, but make sure PR descriptions are detailed, as they should be!
 
 Each portfolio must ALSO include at least one link to **a PR you've reviewed** since the last portfolio. The review made **must** be more than a "LGTM". If it truly is all good (which is unlikely, if nothing else there are almost always nits to catch), then mention things you were impressed that they did!
 
-To summarize: the work submitted in every portfolio, in general, includes **a link to a PR you've made** and **a link to a PR you've given a non-trivial review**. That's it. We expect most devs to follow this format.
+To summarize: the work submitted in every portfolio, in general, includes at least **a link to a PR you've made** and at least **a link to a PR you've given a non-trivial review**. That's it. We expect most devs to follow this format.
 
 In exceptional circumstances where this simple PR/review link submission doesn't apply, there are other options for the dev portfolio detailed below.
 
