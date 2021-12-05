@@ -5,7 +5,7 @@ title: 'Common Requirements'
 
 ## Assignment Options
 
-For SP21, you will choose one of the below assignment options for Dev Assignment 1:
+For FA21, you will choose one of the below assignment options:
 
 - [Learning Goals + Learning Progress](./assignments-learning-doc) (**Newbie assignment only**)
 - [Pull Request Discussion](./assignments-pull-request-discussion)

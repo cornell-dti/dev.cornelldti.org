@@ -53,10 +53,11 @@ Required sections:
 
 96%: Contribution was at expectations for that member of the team. This is the baseline grade.
 
-- Pros and cons of your approach are described.
-- Plan is mostly actionable.
+- Progress in multiple learning goals is described
+- Some progress in main learning goal
 
 100%: Contribution was above expectations for that member of the team.
 
-- Pros and cons of your approach are clearly described.
-- Strong justification of why your design is optimal or most feasible.
+- Progress in multiple learning goals is described
+- Clear technical proof of learning (personal repo and/or PRs)
+- Takeaways and applications of learning progress is discussed
