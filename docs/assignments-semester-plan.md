@@ -4,7 +4,7 @@ title: 'Semester Plan'
 ---
 
 :::caution
-Semester Plan is **only** valid for **TPMs** in FA21.
+Semester Plan is **only** valid for **TPMs**.
 :::
 
 ## Description
