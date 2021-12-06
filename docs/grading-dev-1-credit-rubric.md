@@ -18,5 +18,5 @@ Devs may choose to take DTI for one (1) credit if the College of Engineering den
 - DevSesh is completely optional
 
 :::note
-Please only enroll in DTI for 1 credit if you absolutely cannot add it or you have some other legitimate reason. We may consider phasing out this option for the next semester (FA21).
+Please only enroll in DTI for 1 credit if you absolutely cannot add it or you have some other legitimate reason. We may consider phasing out this option for the next semester.
 :::

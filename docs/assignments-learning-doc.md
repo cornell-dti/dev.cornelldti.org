@@ -4,7 +4,7 @@ title: 'Learning Doc (Learning Goals + Learning Progress)'
 ---
 
 :::caution
-Learning doc is **only** valid for **newbie developers** in FA21.
+Learning doc is **only** valid for **newbie developers**.
 :::
 
 ## Overview
