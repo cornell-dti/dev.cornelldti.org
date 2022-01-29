@@ -12,6 +12,7 @@ You will choose one of the below assignment options:
 - [Unit Testing](./assignments-unit-testing)
 - [Documentation of Existing Code](./assignments-documentation)
 - [Semester Plan](./assignments-semester-plan) (**TPM first assignment only**, if you're a developer with a good reason for doing this, contact `@dev-leadz` )
+- [Semester Reflection](./assignments-semester-reflection) (** End of Semester assignment for full-credit developers and TPMs only **)
 - [Design Doc](./assignments-design-doc)
 - [Technical Critique/Security Vulnerability](./assignments-tech-critique-security-doc)
 
