@@ -1,13 +1,15 @@
 ---
 id: resource-1-1
-title: 'Suggested Dev-TPM 1:1 Topics'
+title: 'TPM-Dev 1:1 Topics'
 ---
-
-# Dev-TPM 1:1s
 
 TPMs should hold 1:1s with their devs throughout the semester.
 
-## Suggested Topics
+### Work Check-in
+
+TPMs: keep a record of whether the dev is exceeding expectations, satisfactory, or below satisfactory.
+
+### Suggested Topics
 
 - Do you still want to be a developer on this subteam?
 - Do you want to transfer?
