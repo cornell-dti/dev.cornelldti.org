@@ -7,7 +7,6 @@ title: 'Semester Reflection'
 
 In each dev portfolio, you will hopefully submit a pull request to your team's repository with your work for that week. In the Semester Reflection, you will do more than just summarize the work that you have done this semester. You will critically analyze and relate how your technical work this semester has led to both the skills you gained and your personal growth (in both technical and non-technical areas)
 
-
 :::note
 The Semester Reflection dev assignment is only available for developers and TPMs taking DTI for _full credit_ as the _last_ dev assignment of the semester.
 :::
