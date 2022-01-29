@@ -5,34 +5,30 @@ title: 'Dev & TPM Grading Rubric'
 
 ## Role Specific Grading Breakdown (**40%**)
 
-- **30%** - Dev Assignments
+- **20%** - Dev Assignments
   - 10% - Dev Assignment 1
   - 10% - Dev Assignment 2
-  - 5% - Mid Sem Peer Review
-  - 5% - Late Sem Peer Review
-- **10%** - Role Meeting Attendance
-  - Devs: bi-weekly DevSesh
+- **20%** - Role Meeting Attendance
+  - Devs: bi-weekly DevSesh, TPM 1:1s (3 total in a semester)
   - TPMs: TPM meetings
   - Can miss up to 2 meetings (DevSesh or TPM), no questions asked
 
 ## Dev Subteam Performance (**30%**)
 
-### Peer Evaluation (**5%**)
-
-Most people will get a 5 (full score). If there is notable complaints in the peer evaluation form, we will deal with it case by case.
-
-### Reliability (aka Dev Portfolios) (**8%**)
+### Reliability (aka Dev Portfolios) (**10%**)
 
 2% for each completed dev portfolio.
 
 - 1% for at least 1 pull request link.
 - 1% for at least 1 review link.
 
-### Quality of Work (**8%**)
+### Quality of Work (**15%**)
 
-- 8 if dev's work defines the word 'master hacker' OR if a dev actively contributes to other parts of the project (so a mainly frontend works on backend, an iOS works on Android, etc)
+- 15 - Impressive
+  - Dev's work defines the word 'master hacker' OR if a dev actively contributes to other parts of the project (so a mainly frontend works on backend, an iOS works on Android, etc)
   - Semester's work contains several impressive changes.
-- 7 is the baseline. Meets the expectation to consistently and constantly produce work with at least one impressive stuff.
+- 12 - Excellent
+  - **This is the baseline.** Meets the expectation to consistently and constantly produce work with at least one impressive stuff.
   - Impressive means that there is something original. Examples:
     - Try some new technology that no one else on DTI has tried before
     - Linter fixes that significantly reduces the number of linter errors (you can't achieve this by disabling linter warnings/errors)
@@ -45,35 +41,27 @@ Most people will get a 5 (full score). If there is notable complaints in the pee
     - Small tweaks to existing code.
     - Moving a lot of stuff around without substantial change (usually has a high raw diff lint count, but low significant line count)
     - etc...
-- 6 if consistently and constantly produce work but unimpressive.
-  - New member has the exception that if they put in "faithful attempts", they can get 7.
-- 5 is something like fixing CSS bugs every week but nothing else.
-- 4-3 GitHub contribution graph is extremely sparse.
-- 2-1 Hopefully no one gets there.
+- 9 - Good
+  - Dev consistently and constantly produce work but unimpressive.
+  - Newbies have the exception that if they put in "faithful attempts", they will reach a 12.
+- 6 - Okay
+  - Something like fixing CSS bugs every week but nothing else.
+- 3 - Poor
+  - GitHub contribution graph is extremely sparse.
+- 0 - Hopefully no one gets there.
 
-### Quality (aka Don’t Commit Crimes) (**5%**)
+### Professionalism (aka Don’t Commit Crimes) (**5%**)
 
-Start from 5. Deduct certain points for each problem below.
-
-- (-1/2) Unuseful PR comments.
-- (-1/2) Committed small garbage to the repo. (.DS_Store, temp files for testing, etc)
-- (-1) Cannot break down large diffs into smaller ones. As a result, code is difficult to review.
-- (-1) Continue to add linter warnings to the codebase (look at an entire PR instead of individual commits).
-- (-1) Use legacy/deprecated methods from library
-- (-1) Consistently use ugly hacks to get job done.
-- (-2) Committed big garbage to the repo. (Something like node_modules)
-- (-2) Committed crime to the repo. (e.g. force-push to destroy other dev's work, very unlikely)
-
-The points deduction is ranked by damage done to the codebase.
-
-### Professionalism (**4%**)
-
-Start from 4. Minus certain points for each problem below. We will happily ignore some small number of unhelpful commit messages.
+Start from 5. Minus certain points for each problem below.
+We will happily ignore some small number of unhelpful commit messages.
 
 - (-1) PR Reviews provide minimal feedback or trivial changes only
-- (-1) extremely unhelpful commit messages.
-- (-1) leaked credentials.
-- (-2) bad words in code or commit messages.
+- (-1) extremely unhelpful commit messages
+- (-1) leaked credentials
+- (-1) committed small garbage to the repo (temp/unneeded files)
+- (-2) committed big garbage to the repo (something like node_modules)
+- (-2) bad words in code or commit messages
+- (-2) committed crime to the repo. (e.g. force-push to destroy other dev's work, very unlikely)
 
 ## TPM Subteam Rubrics (**30%**)
 
