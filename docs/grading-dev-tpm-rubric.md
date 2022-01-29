@@ -15,7 +15,7 @@ title: 'Dev & TPM Grading Rubric'
 
 ## Dev Subteam Performance (**30%**)
 
-### Reliability (aka Dev Portfolios) (**10%**)
+### Reliability (aka Portfolios) (**10%**)
 
 2% for each completed dev portfolio.
 
@@ -63,29 +63,19 @@ We will happily ignore some small number of unhelpful commit messages.
 - (-2) bad words in code or commit messages
 - (-2) committed crime to the repo. (e.g. force-push to destroy other dev's work, very unlikely)
 
-## TPM Subteam Rubrics (**30%**)
+## TPM Subteam Performance (**30%**)
 
-### Peer Evaluation (**5%**)
+### Team Communication (aka Reliability) (aka Portfolios) (**15%**)
 
-See [dev peer evaluation](./grading-dev-tpm-rubric#peer-evaluation-5)
-
-### Team Communication (**8%**)
-
-TPM portfolios
-
-### Leadership and Trust (**2%**)
-
-A parallel of Dev's team communication.
-
-Based on devs' feedback. Most people should get full points.
+3% for each completed TPM portfolio.
 
 ### Project Management (**5%**)
 
-1. They do not help establish clear tasks or deadlines
-2. They establish unclear tasks and timeline to release,
-3. They establish tasks and timeline, but sometimes these planning breaks apart.
-4. They establish a clear list of tasks to complete before release and delegate deadlines to members well
-5. They establishes a clear list of tasks to complete before release, updates/maintains the timeline, and keeps everyone on schedule with no confusion
+- 5 - Establishes a clear list of tasks to complete before release, updates/maintains the timeline, and keeps everyone on schedule with no confusion
+- 4 - Establishes a clear list of tasks to complete before release and delegates deadlines to members well
+- 3 - Establishes tasks and timeline, but sometimes these planning breaks apart.
+- 2 - Establishes unclear tasks and timeline to release
+- 1 - Do not help establish clear tasks or deadlines
 
 ### Helpfulness (**5%**)
 
@@ -103,5 +93,5 @@ Based on devs' feedback. Most people should get full points.
   - Developers sometimes run into trouble of merging in their changes due to mismanagement of codebase
 - 3 - No sign of effort of maintaining the codebase, and breaks are frequently. However, things still somehow work.
 - 2 - No sign of effort of maintaining the codebase, and things don't work most of the times.
-- 1 - Codebase is in a free fall.
+- 1 - Codebase is in free fall.
 - 0 - Hopefully no one gets here. If you encourage developers to commit the source code of linux or a 100GB movie into the repo, you will probably get this grade.
