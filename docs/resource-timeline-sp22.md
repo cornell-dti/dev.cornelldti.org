@@ -13,7 +13,7 @@ possible!
 | Feb 2nd (roughly)  | 1:1 with TPM (early sem)                |
 | Feb 7th - Feb.14   | Help with Dev Interviews! (see Slack)   |
 | Feb 13th           | Dev Portfolio #1 due (newbies can skip) |
-| Feb 30th           | Dev Assignment #1 due                   |
+| Mar 6th            | Dev Assignment #1 due                   |
 | Mar 6th            | Dev Portfolio #2 due                    |
 | Mar 20th           | Dev Portfolio #3 due                    |
 | Mar 26th (roughly) | 1:1 with TPM (mid sem)                  |
