@@ -6,8 +6,8 @@ title: 'Dev 1 Credit Rubric'
 Devs may choose to take DTI for one (1) credit if ONE of the following conditions apply:
 
 - Adding DTI for the regular amount of credits leads to credit overload, and your petition is denied.
-- You have been on DTI for TWO FULL semesters
-  - For freshmen who join in the fall, that fall semester does not count as a full semester
+- You have been on DTI for two semesters
+  - For freshmen who joined in the fall, that fall semester DOES COUNT, even if you took it for 0 credits
 
 Since DTI counts for fewer credits, your DTI responsibilities are adjusted
 accordingly. In particular, we're taking out some of the team requirements and
