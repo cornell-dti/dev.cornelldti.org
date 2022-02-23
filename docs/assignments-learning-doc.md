@@ -4,7 +4,7 @@ title: 'Learning Doc (Learning Goals + Learning Progress)'
 ---
 
 :::caution
-Learning doc is **only** valid for **newbie developers**.
+Learning doc is **only** valid for **newbie developers**. As of SP22, this includes all devs who joined SP22 AND freshmen who joined FA21.
 :::
 
 ## Overview
