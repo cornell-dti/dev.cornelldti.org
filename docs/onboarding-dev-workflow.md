@@ -16,7 +16,7 @@ follow them for each of your task.
 
 ### Step 0: setup a local project
 
-See [Setup your project](./onboarding-git#setup-your-project) in the Git tutorial.
+See [Setup your project](/docs/onboarding-git#setup-your-project) in the Git tutorial.
 
 Skip if you alreday have your repository setup.
 
@@ -57,14 +57,14 @@ To ensure you do not exceed the limit, you need to plan before you write any cod
 
 You should keep your local repository to be up-to-date with latest `master`.
 
-See [Pull latest changes from remote](./onboarding-git#pull-latest-changes-from-remote) in the Git
+See [Pull latest changes from remote](/docs/onboarding-git#pull-latest-changes-from-remote) in the Git
 tutorial.
 
 ### Step 3: create a local branch
 
 Always start a new branch when you need to work on something new.
 
-See [Create a new branch](./onboarding-git#create-a-new-branch) in the Git tutorial.
+See [Create a new branch](/docs/onboarding-git#create-a-new-branch) in the Git tutorial.
 
 ### Step 4: make your changes
 
@@ -89,7 +89,7 @@ type errors. You should try to fix these errors instead of suppress them.
 
 ### Step 7: push your changes to remote
 
-See [Push to remote](./onboarding-git#push-to-remote) in the Git tutorial.
+See [Push to remote](/docs/onboarding-git#push-to-remote) in the Git tutorial.
 
 ### Step 8: create a pull request
 
@@ -147,5 +147,5 @@ Here are some example of bots participating in review:
 :tada: Your changes are merged. The continuous deployment scripts will automatically deploy your
 changes to staging.
 
-You should [delete your local branch](./onboarding-git#delete-a-branch) immediately, and start
+You should [delete your local branch](/docs/onboarding-git#delete-a-branch) immediately, and start
 your new work on a new branch.

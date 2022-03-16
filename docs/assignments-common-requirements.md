@@ -7,14 +7,14 @@ title: 'Common Requirements'
 
 You will choose one of the below assignment options:
 
-- [Learning Goals + Learning Progress](./assignments-learning-doc) (**Newbie assignment only**)
-- [Pull Request Discussion](./assignments-pull-request-discussion)
-- [Unit Testing](./assignments-unit-testing)
-- [Documentation of Existing Code](./assignments-documentation)
-- [Semester Plan](./assignments-semester-plan) (**TPM first assignment only**, if you're a developer with a good reason for doing this, contact `@dev-leadz` )
-- [Semester Reflection](./assignments-semester-reflection) (** End of Semester assignment for full-credit developers and TPMs only **)
-- [Design Doc](./assignments-design-doc)
-- [Technical Critique/Security Vulnerability](./assignments-tech-critique-security-doc)
+- [Learning Goals + Learning Progress](/docs/assignments-learning-doc) (**Newbie assignment only**)
+- [Pull Request Discussion](/docs/assignments-pull-request-discussion)
+- [Unit Testing](/docs/assignments-unit-testing)
+- [Documentation of Existing Code](/docs/assignments-documentation)
+- [Semester Plan](/docs/assignments-semester-plan) (**TPM first assignment only**, if you're a developer with a good reason for doing this, contact `@dev-leadz` )
+- [Semester Reflection](/docs/assignments-semester-reflection) (** End of Semester assignment for full-credit developers and TPMs only **)
+- [Design Doc](/docs/assignments-design-doc)
+- [Technical Critique/Security Vulnerability](/docs/assignments-tech-critique-security-doc)
 
 _Have an idea for a different dev assignment option?_ Get permission from `@dev-leadz` and work with your TPM to ensure your idea is feasible and fits in our assignment requirements. Some example other dev assignment options we've accepted are: **dev onboarding document**, **TPM onboarding document**, and **SEV postmortem** (but do still let us know if you're considering these options!)
 
