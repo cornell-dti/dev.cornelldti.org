@@ -77,14 +77,14 @@ For more details check out the
 
 Documentation for XCode Setup is missing.
 
-Want to contribute? Check the [contributing guide](./getting-started-contributing.md).
+Want to contribute? Check the [contributing guide](/docs/getting-started-contributing.md).
 
 </TabItem>
 <TabItem value="android-studio">
 
 Documentation for Android Studio Setup is missing.
 
-Want to contribute? Check the [contributing guide](./getting-started-contributing.md).
+Want to contribute? Check the [contributing guide](/docs/getting-started-contributing.md).
 
 </TabItem>
 </Tabs>

@@ -37,4 +37,4 @@ overcommit or undercommit to any particular feature.
 
 ## Real Examples
 
-[CoursePlan Requirement Checking Design Document](./assignments-examples-cp-requirements-algo) by [Sam Zhou](https://developersam.com/)
+[CoursePlan Requirement Checking Design Document](/docs/assignments-examples-cp-requirements-algo) by [Sam Zhou](https://developersam.com/)
