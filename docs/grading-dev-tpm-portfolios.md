@@ -31,11 +31,18 @@ A link to a personal repository should be used for three reasons:
 With the link, in the README, you should describe
 
 1. What this repository is (vue tutorial? Firebase tutorial?) and specifically what it does.
-   a. So a bad readme would just say "this is a vue tutorial" while a good readme would say "this is a vue tutorial. In the tutorial, I create a website that lists recipes and sorts them by ingredients needed."
-   b. Additionally, screenshots of your work is greatly appreciated if possible
+   - So a bad readme would just say "this is a vue tutorial" while a good readme would say "this is a vue tutorial. In the tutorial, I create a website that lists recipes and sorts them by ingredients needed."
+   - Additionally, screenshots of your work is greatly appreciated if possible
 2. Why you are doing this tutorial (2-3 sentences will suffice)
 
-To do this, the dev leads need to be contacted before the portfolio deadline. Note that if you reach out too late, we may not be able to respond before the deadline, so make sure you reach out early! We will then reach out to your TPM to ensure the personal repository aligns with the work you have been doing this sprint.
+To do this, the dev leads need to be contacted before the portfolio deadline.
+Note that if you reach out too late, we may not be able to respond before the
+deadline, so make sure you reach out early! We will then reach out to your TPM
+to ensure the personal repository aligns with the work you have been doing this
+sprint.
+
+Note that this alternative only replaces the PR link requirement - a PR review
+is still required.
 
 ### Design Document
 
