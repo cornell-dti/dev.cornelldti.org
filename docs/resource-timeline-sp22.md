@@ -24,5 +24,5 @@ possible!
 | Apr 17th           | Dev Portfolio #4 due                    |
 | Apr 27th           | Dev Onboarding #5 (final!)              |
 | Apr 30th (roughly) | 1:1 with TPM (late sem)                 |
-| Apr 31st           | Dev Portfolio #5 due                    |
+| May 1st            | Dev Portfolio #5 due                    |
 | May 10th           | Dev Assignment #2 due                   |
