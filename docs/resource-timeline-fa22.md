@@ -14,7 +14,7 @@ possible!
 | --------------- | ------------------------ |
 | Oct 7th         | Dev Portfolio #1         |
 | Before Oct 11   | 1:1 with TPM (early sem) |
-| Oct 14th        | Dev Assignment #2 due    |
+| Oct 14th        | Dev Assignment #1 due    |
 | Oct 28th        | Dev Portfolio #2 due     |
 | Before Nov 18th | 1:1 with TPM (mid sem)   |
 | Nov 18th        | Dev Portfolio #3 due     |
@@ -28,7 +28,7 @@ possible!
 | ----------- | ---------------------------- |
 | Around Sept | 1:1 with dev leads           |
 | Oct 7th     | Dev Portfolio #1 due         |
-| Oct 14th    | Dev Assignment #2 due        |
+| Oct 14th    | Dev Assignment #1 due        |
 | Oct 28th    | Dev Portfolio #2 due         |
 | Nov 18th    | Dev Portfolio #3 due         |
 | Dec 4th     | Dev Assignment #2 due        |
