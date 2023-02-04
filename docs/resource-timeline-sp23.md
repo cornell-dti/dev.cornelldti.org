@@ -11,7 +11,7 @@ possible!
 | Time               | Event                                   |
 | ------------------ | --------------------------------------- |
 | Feb 5 - Feb 18     | 1:1 with TPM (early sem)                |
-| Feb 7th - Feb 14   | Help with Dev Interviews! (see Slack)   |
+| Feb 8th - Feb 10   | Help with Dev Interviews! (see Slack)   |
 | Feb 12th           | Dev Portfolio #1 due (newbies can skip) |
 | TBD                | Dev Onboarding #1                       |
 | Feb 28th           | Dev Assignment #1 due                   |
