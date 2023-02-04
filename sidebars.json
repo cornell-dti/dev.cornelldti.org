@@ -1,22 +1,15 @@
 {
   "someSidebar": {
-    "Getting Started": [
-      "getting-started-introduction",
-      "getting-started-contributing"
-    ],
+    "Getting Started": ["getting-started-introduction", "getting-started-contributing"],
     "New Developer Onboarding": [
       "onboarding-join-github-organization",
       "onboarding-dev-workflow",
       "onboarding-editor",
       "onboarding-git"
     ],
-    "Guides": [
-      "guide-code-quality",
-      "guide-devops",
-      "guide-code-review"
-    ],
+    "Guides": ["guide-code-quality", "guide-devops", "guide-code-review"],
     "Resources": [
-      "resource-timeline-fa22",
+      "resource-timeline-sp23",
       "resource-development-guidelines",
       "resource-common-docs-pointer",
       "resource-devsesh",
@@ -38,9 +31,7 @@
       "assignments-learning-doc",
       "assignments-tech-critique-security-doc"
     ],
-    "Assignment Examples": [
-      "assignments-examples-cp-requirements-algo"
-    ],
+    "Assignment Examples": ["assignments-examples-cp-requirements-algo"],
     "Slab Archive": [
       "slab-index",
       "slab-javascript-unit-testing",
